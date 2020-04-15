@@ -1,0 +1,3100 @@
+"StateAbbr","StateName","Year","Type","LicenseCount"
+"AK","Alaska","2019","Hunting",124330
+"AL","Alabama","2019","Hunting",535933
+"AR","Arkansas","2019","Hunting",301240
+"AZ","Arizona","2019","Hunting",310392
+"CA","California","2019","Hunting",279248
+"CO","Colorado","2019","Hunting",298901
+"CT","Connecticut","2019","Hunting",35681
+"DE","Delaware","2019","Hunting",17839
+"FL","Florida","2019","Hunting",189038
+"GA","Georgia","2019","Hunting",684277
+"HI","Hawaii","2019","Hunting",10585
+"IA","Iowa","2019","Hunting",227761
+"ID","Idaho","2019","Hunting",295281
+"IL","Illinois","2019","Hunting",299614
+"IN","Indiana","2019","Hunting",259453
+"KS","Kansas","2019","Hunting",250877
+"KY","Kentucky","2019","Hunting",346161
+"LA","Louisiana","2019","Hunting",396233
+"MA","Massachusetts","2019","Hunting",57970
+"MD","Maryland","2019","Hunting",120814
+"ME","Maine","2019","Hunting",162065
+"MI","Michigan","2019","Hunting",685185
+"MN","Minnesota","2019","Hunting",563127
+"MO","Missouri","2019","Hunting",494030
+"MS","Mississippi","2019","Hunting",288325
+"MT","Montana","2019","Hunting",227039
+"NC","North Carolina","2019","Hunting",592564
+"ND","North Dakota","2019","Hunting",141328
+"NE","Nebraska","2019","Hunting",185231
+"NH","New Hampshire","2019","Hunting",57632
+"NJ","New Jersey","2019","Hunting",73009
+"NM","New Mexico","2019","Hunting",106661
+"NV","Nevada","2019","Hunting",69780
+"NY","New York","2019","Hunting",564612
+"OH","Ohio","2019","Hunting",376435
+"OK","Oklahoma","2019","Hunting",541553
+"OR","Oregon","2019","Hunting",335543
+"PA","Pennsylvania","2019","Hunting",956163
+"RI","Rhode Island","2019","Hunting",7414
+"SC","South Carolina","2019","Hunting",200912
+"SD","South Dakota","2019","Hunting",229323
+"TN","Tennessee","2019","Hunting",679038
+"TX","Texas","2019","Hunting",1162430
+"UT","Utah","2019","Hunting",244131
+"VA","Virginia","2019","Hunting",268300
+"VT","Vermont","2019","Hunting",67619
+"WA","Washington","2019","Hunting",179316
+"WI","Wisconsin","2019","Hunting",692209
+"WV","West Virginia","2019","Hunting",213656
+"WY","Wyoming","2019","Hunting",132075
+"AK","Alaska","2018","Hunting",108921
+"AL","Alabama","2018","Hunting",547905
+"AR","Arkansas","2018","Hunting",326559
+"AZ","Arizona","2018","Hunting",305214
+"CA","California","2018","Hunting",280967
+"CO","Colorado","2018","Hunting",294319
+"CT","Connecticut","2018","Hunting",37489
+"DE","Delaware","2018","Hunting",17847
+"FL","Florida","2018","Hunting",190232
+"GA","Georgia","2018","Hunting",651910
+"HI","Hawaii","2018","Hunting",10617
+"IA","Iowa","2018","Hunting",223232
+"ID","Idaho","2018","Hunting",286947
+"IL","Illinois","2018","Hunting",306024
+"IN","Indiana","2018","Hunting",267447
+"KS","Kansas","2018","Hunting",251390
+"KY","Kentucky","2018","Hunting",352408
+"LA","Louisiana","2018","Hunting",398808
+"MA","Massachusetts","2018","Hunting",57921
+"MD","Maryland","2018","Hunting",120334
+"ME","Maine","2018","Hunting",163191
+"MI","Michigan","2018","Hunting",706101
+"MN","Minnesota","2018","Hunting",568057
+"MO","Missouri","2018","Hunting",498319
+"MS","Mississippi","2018","Hunting",300146
+"MT","Montana","2018","Hunting",253412
+"NC","North Carolina","2018","Hunting",585766
+"ND","North Dakota","2018","Hunting",141553
+"NE","Nebraska","2018","Hunting",183056
+"NH","New Hampshire","2018","Hunting",58099
+"NJ","New Jersey","2018","Hunting",74794
+"NM","New Mexico","2018","Hunting",107331
+"NV","Nevada","2018","Hunting",68744
+"NY","New York","2018","Hunting",579043
+"OH","Ohio","2018","Hunting",390268
+"OK","Oklahoma","2018","Hunting",529651
+"OR","Oregon","2018","Hunting",264684
+"PA","Pennsylvania","2018","Hunting",975650
+"RI","Rhode Island","2018","Hunting",8209
+"SC","South Carolina","2018","Hunting",210369
+"SD","South Dakota","2018","Hunting",233215
+"TN","Tennessee","2018","Hunting",700600
+"TX","Texas","2018","Hunting",1157779
+"UT","Utah","2018","Hunting",236656
+"VA","Virginia","2018","Hunting",276019
+"VT","Vermont","2018","Hunting",69943
+"WA","Washington","2018","Hunting",183063
+"WI","Wisconsin","2018","Hunting",706400
+"WV","West Virginia","2018","Hunting",217123
+"WY","Wyoming","2018","Hunting",130304
+"AK","Alaska","2017","Hunting",108487
+"AL","Alabama","2017","Hunting",548829
+"AR","Arkansas","2017","Hunting",340200
+"AZ","Arizona","2017","Hunting",324553
+"CA","California","2017","Hunting",284069
+"CO","Colorado","2017","Hunting",290064
+"CT","Connecticut","2017","Hunting",39488
+"DE","Delaware","2017","Hunting",18323
+"FL","Florida","2017","Hunting",190526
+"GA","Georgia","2017","Hunting",620740
+"HI","Hawaii","2017","Hunting",10831
+"IA","Iowa","2017","Hunting",221231
+"ID","Idaho","2017","Hunting",273887
+"IL","Illinois","2017","Hunting",314135
+"IN","Indiana","2017","Hunting",270875
+"KS","Kansas","2017","Hunting",245779
+"KY","Kentucky","2017","Hunting",353098
+"LA","Louisiana","2017","Hunting",395322
+"MA","Massachusetts","2017","Hunting",57973
+"MD","Maryland","2017","Hunting",123833
+"ME","Maine","2017","Hunting",166051
+"MI","Michigan","2017","Hunting",719850
+"MN","Minnesota","2017","Hunting",564694
+"MO","Missouri","2017","Hunting",499489
+"MS","Mississippi","2017","Hunting",298637
+"MT","Montana","2017","Hunting",240702
+"NC","North Carolina","2017","Hunting",573712
+"ND","North Dakota","2017","Hunting",140243
+"NE","Nebraska","2017","Hunting",175468
+"NH","New Hampshire","2017","Hunting",59318
+"NJ","New Jersey","2017","Hunting",75248
+"NM","New Mexico","2017","Hunting",103719
+"NV","Nevada","2017","Hunting",67906
+"NY","New York","2017","Hunting",572992
+"OH","Ohio","2017","Hunting",394598
+"OK","Oklahoma","2017","Hunting",431077
+"OR","Oregon","2017","Hunting",262822
+"PA","Pennsylvania","2017","Hunting",984637
+"RI","Rhode Island","2017","Hunting",8797
+"SC","South Carolina","2017","Hunting",212621
+"SD","South Dakota","2017","Hunting",223394
+"TN","Tennessee","2017","Hunting",717256
+"TX","Texas","2017","Hunting",1148765
+"UT","Utah","2017","Hunting",226225
+"VA","Virginia","2017","Hunting",277281
+"VT","Vermont","2017","Hunting",71807
+"WA","Washington","2017","Hunting",182149
+"WI","Wisconsin","2017","Hunting",700843
+"WV","West Virginia","2017","Hunting",219990
+"WY","Wyoming","2017","Hunting",127198
+"AK","Alaska","2016","Hunting",106916
+"AL","Alabama","2016","Hunting",565139
+"AR","Arkansas","2016","Hunting",328542
+"AZ","Arizona","2016","Hunting",215444
+"CA","California","2016","Hunting",287147
+"CO","Colorado","2016","Hunting",284773
+"CT","Connecticut","2016","Hunting",42924
+"DE","Delaware","2016","Hunting",17369
+"FL","Florida","2016","Hunting",181040
+"GA","Georgia","2016","Hunting",604863
+"HI","Hawaii","2016","Hunting",11113
+"IA","Iowa","2016","Hunting",217282
+"ID","Idaho","2016","Hunting",266007
+"IL","Illinois","2016","Hunting",319588
+"IN","Indiana","2016","Hunting",280952
+"KS","Kansas","2016","Hunting",245647
+"KY","Kentucky","2016","Hunting",356500
+"LA","Louisiana","2016","Hunting",386310
+"MA","Massachusetts","2016","Hunting",59669
+"MD","Maryland","2016","Hunting",129376
+"ME","Maine","2016","Hunting",168890
+"MI","Michigan","2016","Hunting",767896
+"MN","Minnesota","2016","Hunting",572203
+"MO","Missouri","2016","Hunting",502652
+"MS","Mississippi","2016","Hunting",307747
+"MT","Montana","2016","Hunting",239542
+"NC","North Carolina","2016","Hunting",570495
+"ND","North Dakota","2016","Hunting",145538
+"NE","Nebraska","2016","Hunting",174493
+"NH","New Hampshire","2016","Hunting",61556
+"NJ","New Jersey","2016","Hunting",75006
+"NM","New Mexico","2016","Hunting",99328
+"NV","Nevada","2016","Hunting",66950
+"NY","New York","2016","Hunting",544229
+"OH","Ohio","2016","Hunting",404081
+"OK","Oklahoma","2016","Hunting",421681
+"OR","Oregon","2016","Hunting",259000
+"PA","Pennsylvania","2016","Hunting",980613
+"RI","Rhode Island","2016","Hunting",8978
+"SC","South Carolina","2016","Hunting",212461
+"SD","South Dakota","2016","Hunting",221979
+"TN","Tennessee","2016","Hunting",734733
+"TX","Texas","2016","Hunting",1132099
+"UT","Utah","2016","Hunting",217471
+"VA","Virginia","2016","Hunting",282132
+"VT","Vermont","2016","Hunting",74219
+"WA","Washington","2016","Hunting",182251
+"WI","Wisconsin","2016","Hunting",719110
+"WV","West Virginia","2016","Hunting",222686
+"WY","Wyoming","2016","Hunting",132141
+"AK","Alaska","2015","Hunting",107131
+"AL","Alabama","2015","Hunting",507926
+"AR","Arkansas","2015","Hunting",326779
+"AZ","Arizona","2015","Hunting",200092
+"CA","California","2015","Hunting",283539
+"CO","Colorado","2015","Hunting",281201
+"CT","Connecticut","2015","Hunting",42535
+"DE","Delaware","2015","Hunting",16786
+"FL","Florida","2015","Hunting",175349
+"GA","Georgia","2015","Hunting",395219
+"HI","Hawaii","2015","Hunting",10537
+"IA","Iowa","2015","Hunting",219798
+"ID","Idaho","2015","Hunting",258547
+"IL","Illinois","2015","Hunting",320765
+"IN","Indiana","2015","Hunting",278322
+"KS","Kansas","2015","Hunting",239335
+"KY","Kentucky","2015","Hunting",340902
+"LA","Louisiana","2015","Hunting",370528
+"MA","Massachusetts","2015","Hunting",56797
+"MD","Maryland","2015","Hunting",124187
+"ME","Maine","2015","Hunting",165781
+"MI","Michigan","2015","Hunting",763618
+"MN","Minnesota","2015","Hunting",592125
+"MO","Missouri","2015","Hunting",496583
+"MS","Mississippi","2015","Hunting",218161
+"MT","Montana","2015","Hunting",229317
+"NC","North Carolina","2015","Hunting",545032
+"ND","North Dakota","2015","Hunting",148793
+"NE","Nebraska","2015","Hunting",175591
+"NH","New Hampshire","2015","Hunting",59068
+"NJ","New Jersey","2015","Hunting",74067
+"NM","New Mexico","2015","Hunting",97103
+"NV","Nevada","2015","Hunting",65606
+"NY","New York","2015","Hunting",535915
+"OH","Ohio","2015","Hunting",404997
+"OK","Oklahoma","2015","Hunting",419445
+"OR","Oregon","2015","Hunting",264102
+"PA","Pennsylvania","2015","Hunting",969633
+"RI","Rhode Island","2015","Hunting",8624
+"SC","South Carolina","2015","Hunting",206397
+"SD","South Dakota","2015","Hunting",244182
+"TN","Tennessee","2015","Hunting",727229
+"TX","Texas","2015","Hunting",1060455
+"UT","Utah","2015","Hunting",207331
+"VA","Virginia","2015","Hunting",276660
+"VT","Vermont","2015","Hunting",72930
+"WA","Washington","2015","Hunting",180829
+"WI","Wisconsin","2015","Hunting",717381
+"WV","West Virginia","2015","Hunting",220811
+"WY","Wyoming","2015","Hunting",133568
+"AK","Alaska","2014","Hunting",107260
+"AL","Alabama","2014","Hunting",507403
+"AR","Arkansas","2014","Hunting",382212
+"AZ","Arizona","2014","Hunting",195213
+"CA","California","2014","Hunting",283539
+"CO","Colorado","2014","Hunting",280302
+"CT","Connecticut","2014","Hunting",41294
+"DE","Delaware","2014","Hunting",16860
+"FL","Florida","2014","Hunting",176288
+"GA","Georgia","2014","Hunting",367385
+"HI","Hawaii","2014","Hunting",7240
+"IA","Iowa","2014","Hunting",222695
+"ID","Idaho","2014","Hunting",252865
+"IL","Illinois","2014","Hunting",321858
+"IN","Indiana","2014","Hunting",274048
+"KS","Kansas","2014","Hunting",245365
+"KY","Kentucky","2014","Hunting",326976
+"LA","Louisiana","2014","Hunting",358153
+"MA","Massachusetts","2014","Hunting",61204
+"MD","Maryland","2014","Hunting",118997
+"ME","Maine","2014","Hunting",175196
+"MI","Michigan","2014","Hunting",753376
+"MN","Minnesota","2014","Hunting",578371
+"MO","Missouri","2014","Hunting",487024
+"MS","Mississippi","2014","Hunting",219716
+"MT","Montana","2014","Hunting",222977
+"NC","North Carolina","2014","Hunting",528636
+"ND","North Dakota","2014","Hunting",149138
+"NE","Nebraska","2014","Hunting",180517
+"NH","New Hampshire","2014","Hunting",56411
+"NJ","New Jersey","2014","Hunting",75699
+"NM","New Mexico","2014","Hunting",95927
+"NV","Nevada","2014","Hunting",65461
+"NY","New York","2014","Hunting",576815
+"OH","Ohio","2014","Hunting",400954
+"OK","Oklahoma","2014","Hunting",400809
+"OR","Oregon","2014","Hunting",256321
+"PA","Pennsylvania","2014","Hunting",964714
+"RI","Rhode Island","2014","Hunting",8551
+"SC","South Carolina","2014","Hunting",204837
+"SD","South Dakota","2014","Hunting",246315
+"TN","Tennessee","2014","Hunting",566507
+"TX","Texas","2014","Hunting",1020105
+"UT","Utah","2014","Hunting",206666
+"VA","Virginia","2014","Hunting",292863
+"VT","Vermont","2014","Hunting",74966
+"WA","Washington","2014","Hunting",180411
+"WI","Wisconsin","2014","Hunting",704372
+"WV","West Virginia","2014","Hunting",214286
+"WY","Wyoming","2014","Hunting",136636
+"AK","Alaska","2013","Hunting",101547
+"AL","Alabama","2013","Hunting",530127
+"AR","Arkansas","2013","Hunting",390554
+"AZ","Arizona","2013","Hunting",195664
+"CA","California","2013","Hunting",281472
+"CO","Colorado","2013","Hunting",286363
+"CT","Connecticut","2013","Hunting",44178
+"DE","Delaware","2013","Hunting",18184
+"FL","Florida","2013","Hunting",176616
+"GA","Georgia","2013","Hunting",363575
+"HI","Hawaii","2013","Hunting",9815
+"IA","Iowa","2013","Hunting",227408
+"ID","Idaho","2013","Hunting",248728
+"IL","Illinois","2013","Hunting",321739
+"IN","Indiana","2013","Hunting",273929
+"KS","Kansas","2013","Hunting",226553
+"KY","Kentucky","2013","Hunting",330238
+"LA","Louisiana","2013","Hunting",345525
+"MA","Massachusetts","2013","Hunting",57641
+"MD","Maryland","2013","Hunting",120321
+"ME","Maine","2013","Hunting",189120
+"MI","Michigan","2013","Hunting",761269
+"MN","Minnesota","2013","Hunting",579910
+"MO","Missouri","2013","Hunting",486608
+"MS","Mississippi","2013","Hunting",220266
+"MT","Montana","2013","Hunting",235621
+"NC","North Carolina","2013","Hunting",521717
+"ND","North Dakota","2013","Hunting",156052
+"NE","Nebraska","2013","Hunting",177623
+"NH","New Hampshire","2013","Hunting",59301
+"NJ","New Jersey","2013","Hunting",77607
+"NM","New Mexico","2013","Hunting",97893
+"NV","Nevada","2013","Hunting",64334
+"NY","New York","2013","Hunting",581401
+"OH","Ohio","2013","Hunting",405866
+"OK","Oklahoma","2013","Hunting",381049
+"OR","Oregon","2013","Hunting",260949
+"PA","Pennsylvania","2013","Hunting",968735
+"RI","Rhode Island","2013","Hunting",8605
+"SC","South Carolina","2013","Hunting",173942
+"SD","South Dakota","2013","Hunting",253512
+"TN","Tennessee","2013","Hunting",530547
+"TX","Texas","2013","Hunting",1036946
+"UT","Utah","2013","Hunting",211863
+"VA","Virginia","2013","Hunting",300764
+"VT","Vermont","2013","Hunting",80650
+"WA","Washington","2013","Hunting",188081
+"WI","Wisconsin","2013","Hunting",704357
+"WV","West Virginia","2013","Hunting",221806
+"WY","Wyoming","2013","Hunting",143155
+"AK","Alaska","2012","Hunting",106653
+"AL","Alabama","2012","Hunting",527713
+"AR","Arkansas","2012","Hunting",385275
+"AZ","Arizona","2012","Hunting",194727
+"CA","California","2012","Hunting",289609
+"CO","Colorado","2012","Hunting",288086
+"CT","Connecticut","2012","Hunting",46582
+"DE","Delaware","2012","Hunting",18691
+"FL","Florida","2012","Hunting",176034
+"GA","Georgia","2012","Hunting",324561
+"HI","Hawaii","2012","Hunting",9677
+"IA","Iowa","2012","Hunting",256896
+"ID","Idaho","2012","Hunting",252573
+"IL","Illinois","2012","Hunting",328995
+"IN","Indiana","2012","Hunting",279214
+"KS","Kansas","2012","Hunting",235021
+"KY","Kentucky","2012","Hunting",336463
+"LA","Louisiana","2012","Hunting",325446
+"MA","Massachusetts","2012","Hunting",57346
+"MD","Maryland","2012","Hunting",119969
+"ME","Maine","2012","Hunting",191280
+"MI","Michigan","2012","Hunting",786880
+"MN","Minnesota","2012","Hunting",576723
+"MO","Missouri","2012","Hunting",491357
+"MS","Mississippi","2012","Hunting",226940
+"MT","Montana","2012","Hunting",243570
+"NC","North Carolina","2012","Hunting",505530
+"ND","North Dakota","2012","Hunting",154047
+"NE","Nebraska","2012","Hunting",175874
+"NH","New Hampshire","2012","Hunting",59420
+"NJ","New Jersey","2012","Hunting",77584
+"NM","New Mexico","2012","Hunting",96424
+"NV","Nevada","2012","Hunting",64635
+"NY","New York","2012","Hunting",592216
+"OH","Ohio","2012","Hunting",413710
+"OK","Oklahoma","2012","Hunting",386374
+"OR","Oregon","2012","Hunting",282812
+"PA","Pennsylvania","2012","Hunting",970217
+"RI","Rhode Island","2012","Hunting",8798
+"SC","South Carolina","2012","Hunting",234457
+"SD","South Dakota","2012","Hunting",251655
+"TN","Tennessee","2012","Hunting",698993
+"TX","Texas","2012","Hunting",1020227
+"UT","Utah","2012","Hunting",212378
+"VA","Virginia","2012","Hunting",304206
+"VT","Vermont","2012","Hunting",82307
+"WA","Washington","2012","Hunting",194272
+"WI","Wisconsin","2012","Hunting",718261
+"WV","West Virginia","2012","Hunting",233349
+"WY","Wyoming","2012","Hunting",142251
+"AK","Alaska","2011","Hunting",101750
+"AL","Alabama","2011","Hunting",540098
+"AR","Arkansas","2011","Hunting",390932
+"AZ","Arizona","2011","Hunting",191834
+"CA","California","2011","Hunting",293263
+"CO","Colorado","2011","Hunting",294186
+"CT","Connecticut","2011","Hunting",50066
+"DE","Delaware","2011","Hunting",19271
+"FL","Florida","2011","Hunting",176539
+"GA","Georgia","2011","Hunting",307436
+"HI","Hawaii","2011","Hunting",9002
+"IA","Iowa","2011","Hunting",264699
+"ID","Idaho","2011","Hunting",254195
+"IL","Illinois","2011","Hunting",333061
+"IN","Indiana","2011","Hunting",272282
+"KS","Kansas","2011","Hunting",214107
+"KY","Kentucky","2011","Hunting",328321
+"LA","Louisiana","2011","Hunting",314846
+"MA","Massachusetts","2011","Hunting",59470
+"MD","Maryland","2011","Hunting",121982
+"ME","Maine","2011","Hunting",193436
+"MI","Michigan","2011","Hunting",795535
+"MN","Minnesota","2011","Hunting",581828
+"MO","Missouri","2011","Hunting",485413
+"MS","Mississippi","2011","Hunting",232546
+"MT","Montana","2011","Hunting",245550
+"NC","North Carolina","2011","Hunting",494005
+"ND","North Dakota","2011","Hunting",156906
+"NE","Nebraska","2011","Hunting",175944
+"NH","New Hampshire","2011","Hunting",59154
+"NJ","New Jersey","2011","Hunting",79539
+"NM","New Mexico","2011","Hunting",102463
+"NV","Nevada","2011","Hunting",63709
+"NY","New York","2011","Hunting",676669
+"OH","Ohio","2011","Hunting",408142
+"OK","Oklahoma","2011","Hunting",379884
+"OR","Oregon","2011","Hunting",283749
+"PA","Pennsylvania","2011","Hunting",927655
+"RI","Rhode Island","2011","Hunting",8858
+"SC","South Carolina","2011","Hunting",223008
+"SD","South Dakota","2011","Hunting",256191
+"TN","Tennessee","2011","Hunting",700621
+"TX","Texas","2011","Hunting",1024520
+"UT","Utah","2011","Hunting",207232
+"VA","Virginia","2011","Hunting",307642
+"VT","Vermont","2011","Hunting",83681
+"WA","Washington","2011","Hunting",196276
+"WI","Wisconsin","2011","Hunting",716504
+"WV","West Virginia","2011","Hunting",234192
+"WY","Wyoming","2011","Hunting",135336
+"AK","Alaska","2010","Hunting",97858
+"AL","Alabama","2010","Hunting",264710
+"AR","Arkansas","2010","Hunting",381521
+"AZ","Arizona","2010","Hunting",201627
+"CA","California","2010","Hunting",296623
+"CO","Colorado","2010","Hunting",294186
+"CT","Connecticut","2010","Hunting",49493
+"DE","Delaware","2010","Hunting",18746
+"FL","Florida","2010","Hunting",170554
+"GA","Georgia","2010","Hunting",302190
+"HI","Hawaii","2010","Hunting",7407
+"IA","Iowa","2010","Hunting",271434
+"ID","Idaho","2010","Hunting",256664
+"IL","Illinois","2010","Hunting",301688
+"IN","Indiana","2010","Hunting",264323
+"KS","Kansas","2010","Hunting",214107
+"KY","Kentucky","2010","Hunting",339483
+"LA","Louisiana","2010","Hunting",304661
+"MA","Massachusetts","2010","Hunting",57153
+"MD","Maryland","2010","Hunting",120630
+"ME","Maine","2010","Hunting",196160
+"MI","Michigan","2010","Hunting",790789
+"MN","Minnesota","2010","Hunting",579060
+"MO","Missouri","2010","Hunting",480883
+"MS","Mississippi","2010","Hunting",238036
+"MT","Montana","2010","Hunting",243751
+"NC","North Carolina","2010","Hunting",475375
+"ND","North Dakota","2010","Hunting",163174
+"NE","Nebraska","2010","Hunting",177939
+"NH","New Hampshire","2010","Hunting",59768
+"NJ","New Jersey","2010","Hunting",76398
+"NM","New Mexico","2010","Hunting",100346
+"NV","Nevada","2010","Hunting",65047
+"NY","New York","2010","Hunting",597006
+"OH","Ohio","2010","Hunting",395567
+"OK","Oklahoma","2010","Hunting",356257
+"OR","Oregon","2010","Hunting",279893
+"PA","Pennsylvania","2010","Hunting",925885
+"RI","Rhode Island","2010","Hunting",9075
+"SC","South Carolina","2010","Hunting",204445
+"SD","South Dakota","2010","Hunting",259159
+"TN","Tennessee","2010","Hunting",671120
+"TX","Texas","2010","Hunting",1020779
+"UT","Utah","2010","Hunting",165033
+"VA","Virginia","2010","Hunting",307995
+"VT","Vermont","2010","Hunting",84044
+"WA","Washington","2010","Hunting",209050
+"WI","Wisconsin","2010","Hunting",721399
+"WV","West Virginia","2010","Hunting",229115
+"WY","Wyoming","2010","Hunting",149581
+"AK","Alaska","2009","Hunting",96979
+"AL","Alabama","2009","Hunting",264640
+"AR","Arkansas","2009","Hunting",380931
+"AZ","Arizona","2009","Hunting",202976
+"CA","California","2009","Hunting",300615
+"CO","Colorado","2009","Hunting",306179
+"CT","Connecticut","2009","Hunting",48857
+"DE","Delaware","2009","Hunting",19890
+"FL","Florida","2009","Hunting",170282
+"GA","Georgia","2009","Hunting",273272
+"HI","Hawaii","2009","Hunting",6856
+"IA","Iowa","2009","Hunting",290171
+"ID","Idaho","2009","Hunting",255077
+"IL","Illinois","2009","Hunting",328975
+"IN","Indiana","2009","Hunting",265709
+"KS","Kansas","2009","Hunting",208992
+"KY","Kentucky","2009","Hunting",347848
+"LA","Louisiana","2009","Hunting",293224
+"MA","Massachusetts","2009","Hunting",59158
+"MD","Maryland","2009","Hunting",123994
+"ME","Maine","2009","Hunting",195568
+"MI","Michigan","2009","Hunting",802299
+"MN","Minnesota","2009","Hunting",578244
+"MO","Missouri","2009","Hunting",483911
+"MS","Mississippi","2009","Hunting",231865
+"MT","Montana","2009","Hunting",240613
+"NC","North Carolina","2009","Hunting",460577
+"ND","North Dakota","2009","Hunting",156713
+"NE","Nebraska","2009","Hunting",171419
+"NH","New Hampshire","2009","Hunting",61076
+"NJ","New Jersey","2009","Hunting",80246
+"NM","New Mexico","2009","Hunting",94243
+"NV","Nevada","2009","Hunting",64031
+"NY","New York","2009","Hunting",594992
+"OH","Ohio","2009","Hunting",400736
+"OK","Oklahoma","2009","Hunting",362806
+"OR","Oregon","2009","Hunting",279937
+"PA","Pennsylvania","2009","Hunting",943222
+"RI","Rhode Island","2009","Hunting",9075
+"SC","South Carolina","2009","Hunting",205059
+"SD","South Dakota","2009","Hunting",248495
+"TN","Tennessee","2009","Hunting",667606
+"TX","Texas","2009","Hunting",1012446
+"UT","Utah","2009","Hunting",157217
+"VA","Virginia","2009","Hunting",318993
+"VT","Vermont","2009","Hunting",84044
+"WA","Washington","2009","Hunting",197260
+"WI","Wisconsin","2009","Hunting",721851
+"WV","West Virginia","2009","Hunting",237343
+"WY","Wyoming","2009","Hunting",145952
+"AK","Alaska","2008","Hunting",96979
+"AL","Alabama","2008","Hunting",255923
+"AR","Arkansas","2008","Hunting",354042
+"AZ","Arizona","2008","Hunting",202976
+"CA","California","2008","Hunting",295163
+"CO","Colorado","2008","Hunting",306179
+"CT","Connecticut","2008","Hunting",48857
+"DE","Delaware","2008","Hunting",19681
+"FL","Florida","2008","Hunting",167524
+"GA","Georgia","2008","Hunting",390892
+"HI","Hawaii","2008","Hunting",8741
+"IA","Iowa","2008","Hunting",291424
+"ID","Idaho","2008","Hunting",255077
+"IL","Illinois","2008","Hunting",328975
+"IN","Indiana","2008","Hunting",265709
+"KS","Kansas","2008","Hunting",209170
+"KY","Kentucky","2008","Hunting",347848
+"LA","Louisiana","2008","Hunting",269471
+"MA","Massachusetts","2008","Hunting",57193
+"MD","Maryland","2008","Hunting",118708
+"ME","Maine","2008","Hunting",195568
+"MI","Michigan","2008","Hunting",814643
+"MN","Minnesota","2008","Hunting",578244
+"MO","Missouri","2008","Hunting",487442
+"MS","Mississippi","2008","Hunting",225150
+"MT","Montana","2008","Hunting",240613
+"NC","North Carolina","2008","Hunting",440896
+"ND","North Dakota","2008","Hunting",152691
+"NE","Nebraska","2008","Hunting",171419
+"NH","New Hampshire","2008","Hunting",61076
+"NJ","New Jersey","2008","Hunting",80246
+"NM","New Mexico","2008","Hunting",96160
+"NV","Nevada","2008","Hunting",64031
+"NY","New York","2008","Hunting",611644
+"OH","Ohio","2008","Hunting",420621
+"OK","Oklahoma","2008","Hunting",345020
+"OR","Oregon","2008","Hunting",279937
+"PA","Pennsylvania","2008","Hunting",981124
+"RI","Rhode Island","2008","Hunting",9075
+"SC","South Carolina","2008","Hunting",199540
+"SD","South Dakota","2008","Hunting",239419
+"TN","Tennessee","2008","Hunting",780053
+"TX","Texas","2008","Hunting",1005226
+"UT","Utah","2008","Hunting",157217
+"VA","Virginia","2008","Hunting",309942
+"VT","Vermont","2008","Hunting",83708
+"WA","Washington","2008","Hunting",197215
+"WI","Wisconsin","2008","Hunting",721851
+"WV","West Virginia","2008","Hunting",237343
+"WY","Wyoming","2008","Hunting",145952
+"AK","Alaska","2007","Hunting",99954
+"AL","Alabama","2007","Hunting",259241
+"AR","Arkansas","2007","Hunting",375737
+"AZ","Arizona","2007","Hunting",196706
+"CA","California","2007","Hunting",299303
+"CO","Colorado","2007","Hunting",312151
+"CT","Connecticut","2007","Hunting",52207
+"DE","Delaware","2007","Hunting",19472
+"FL","Florida","2007","Hunting",161273
+"GA","Georgia","2007","Hunting",314569
+"HI","Hawaii","2007","Hunting",7775
+"IA","Iowa","2007","Hunting",280398
+"ID","Idaho","2007","Hunting",254678
+"IL","Illinois","2007","Hunting",336203
+"IN","Indiana","2007","Hunting",282261
+"KS","Kansas","2007","Hunting",198368
+"KY","Kentucky","2007","Hunting",343456
+"LA","Louisiana","2007","Hunting",280167
+"MA","Massachusetts","2007","Hunting",59016
+"MD","Maryland","2007","Hunting",122371
+"ME","Maine","2007","Hunting",199102
+"MI","Michigan","2007","Hunting",789244
+"MN","Minnesota","2007","Hunting",571547
+"MO","Missouri","2007","Hunting",479959
+"MS","Mississippi","2007","Hunting",236067
+"MT","Montana","2007","Hunting",231936
+"NC","North Carolina","2007","Hunting",427608
+"ND","North Dakota","2007","Hunting",148919
+"NE","Nebraska","2007","Hunting",170785
+"NH","New Hampshire","2007","Hunting",60737
+"NJ","New Jersey","2007","Hunting",82566
+"NM","New Mexico","2007","Hunting",105966
+"NV","Nevada","2007","Hunting",60385
+"NY","New York","2007","Hunting",573970
+"OH","Ohio","2007","Hunting",431815
+"OK","Oklahoma","2007","Hunting",341213
+"OR","Oregon","2007","Hunting",279140
+"PA","Pennsylvania","2007","Hunting",1006293
+"RI","Rhode Island","2007","Hunting",8940
+"SC","South Carolina","2007","Hunting",220126
+"SD","South Dakota","2007","Hunting",243123
+"TN","Tennessee","2007","Hunting",775511
+"TX","Texas","2007","Hunting",1039709
+"UT","Utah","2007","Hunting",148849
+"VA","Virginia","2007","Hunting",317239
+"VT","Vermont","2007","Hunting",81265
+"WA","Washington","2007","Hunting",197135
+"WI","Wisconsin","2007","Hunting",713610
+"WV","West Virginia","2007","Hunting",238355
+"WY","Wyoming","2007","Hunting",139064
+"AK","Alaska","2006","Hunting",98084
+"AL","Alabama","2006","Hunting",267354
+"AR","Arkansas","2006","Hunting",378162
+"AZ","Arizona","2006","Hunting",182044
+"CA","California","2006","Hunting",305962
+"CO","Colorado","2006","Hunting",318971
+"CT","Connecticut","2006","Hunting",54130
+"DE","Delaware","2006","Hunting",18480
+"FL","Florida","2006","Hunting",175067
+"GA","Georgia","2006","Hunting",314569
+"HI","Hawaii","2006","Hunting",8211
+"IA","Iowa","2006","Hunting",286607
+"ID","Idaho","2006","Hunting",250648
+"IL","Illinois","2006","Hunting",330360
+"IN","Indiana","2006","Hunting",250573
+"KS","Kansas","2006","Hunting",202274
+"KY","Kentucky","2006","Hunting",350544
+"LA","Louisiana","2006","Hunting",277108
+"MA","Massachusetts","2006","Hunting",69500
+"MD","Maryland","2006","Hunting",120914
+"ME","Maine","2006","Hunting",205600
+"MI","Michigan","2006","Hunting",832835
+"MN","Minnesota","2006","Hunting",571581
+"MO","Missouri","2006","Hunting",492500
+"MS","Mississippi","2006","Hunting",234797
+"MT","Montana","2006","Hunting",232869
+"NC","North Carolina","2006","Hunting",438172
+"ND","North Dakota","2006","Hunting",147240
+"NE","Nebraska","2006","Hunting",165952
+"NH","New Hampshire","2006","Hunting",62587
+"NJ","New Jersey","2006","Hunting",86588
+"NM","New Mexico","2006","Hunting",103968
+"NV","Nevada","2006","Hunting",58722
+"NY","New York","2006","Hunting",627749
+"OH","Ohio","2006","Hunting",442214
+"OK","Oklahoma","2006","Hunting",341260
+"OR","Oregon","2006","Hunting",283327
+"PA","Pennsylvania","2006","Hunting",1018664
+"RI","Rhode Island","2006","Hunting",9302
+"SC","South Carolina","2006","Hunting",210136
+"SD","South Dakota","2006","Hunting",232053
+"TN","Tennessee","2006","Hunting",730495
+"TX","Texas","2006","Hunting",1073847
+"UT","Utah","2006","Hunting",153501
+"VA","Virginia","2006","Hunting",317484
+"VT","Vermont","2006","Hunting",86512
+"WA","Washington","2006","Hunting",193046
+"WI","Wisconsin","2006","Hunting",722803
+"WV","West Virginia","2006","Hunting",254222
+"WY","Wyoming","2006","Hunting",136839
+"AK","Alaska","2005","Hunting",99121
+"AL","Alabama","2005","Hunting",270229
+"AR","Arkansas","2005","Hunting",386559
+"AZ","Arizona","2005","Hunting",181467
+"CA","California","2005","Hunting",315588
+"CO","Colorado","2005","Hunting",309801
+"CT","Connecticut","2005","Hunting",54926
+"DE","Delaware","2005","Hunting",20066
+"FL","Florida","2005","Hunting",176320
+"GA","Georgia","2005","Hunting",331795
+"HI","Hawaii","2005","Hunting",8388
+"IA","Iowa","2005","Hunting",269014
+"ID","Idaho","2005","Hunting",245358
+"IL","Illinois","2005","Hunting",293994
+"IN","Indiana","2005","Hunting",232819
+"KS","Kansas","2005","Hunting",195874
+"KY","Kentucky","2005","Hunting",347379
+"LA","Louisiana","2005","Hunting",268793
+"MA","Massachusetts","2005","Hunting",56662
+"MD","Maryland","2005","Hunting",123699
+"ME","Maine","2005","Hunting",201136
+"MI","Michigan","2005","Hunting",863946
+"MN","Minnesota","2005","Hunting",573424
+"MO","Missouri","2005","Hunting",542477
+"MS","Mississippi","2005","Hunting",235447
+"MT","Montana","2005","Hunting",232276
+"NC","North Carolina","2005","Hunting",433542
+"ND","North Dakota","2005","Hunting",146010
+"NE","Nebraska","2005","Hunting",176502
+"NH","New Hampshire","2005","Hunting",63975
+"NJ","New Jersey","2005","Hunting",81501
+"NM","New Mexico","2005","Hunting",109948
+"NV","Nevada","2005","Hunting",60805
+"NY","New York","2005","Hunting",641572
+"OH","Ohio","2005","Hunting",425992
+"OK","Oklahoma","2005","Hunting",331672
+"OR","Oregon","2005","Hunting",295422
+"PA","Pennsylvania","2005","Hunting",1017802
+"RI","Rhode Island","2005","Hunting",10691
+"SC","South Carolina","2005","Hunting",211605
+"SD","South Dakota","2005","Hunting",207973
+"TN","Tennessee","2005","Hunting",727525
+"TX","Texas","2005","Hunting",1039327
+"UT","Utah","2005","Hunting",154884
+"VA","Virginia","2005","Hunting",304605
+"VT","Vermont","2005","Hunting",90110
+"WA","Washington","2005","Hunting",194308
+"WI","Wisconsin","2005","Hunting",716200
+"WV","West Virginia","2005","Hunting",262835
+"WY","Wyoming","2005","Hunting",137677
+"AK","Alaska","2004","Hunting",97537
+"AL","Alabama","2004","Hunting",273638
+"AR","Arkansas","2004","Hunting",402493
+"AZ","Arizona","2004","Hunting",183478
+"CA","California","2004","Hunting",320092
+"CO","Colorado","2004","Hunting",300574
+"CT","Connecticut","2004","Hunting",57720
+"DE","Delaware","2004","Hunting",21488
+"FL","Florida","2004","Hunting",181857
+"GA","Georgia","2004","Hunting",338045
+"HI","Hawaii","2004","Hunting",9032
+"IA","Iowa","2004","Hunting",257899
+"ID","Idaho","2004","Hunting",246284
+"IL","Illinois","2004","Hunting",300883
+"IN","Indiana","2004","Hunting",285573
+"KS","Kansas","2004","Hunting",188310
+"KY","Kentucky","2004","Hunting",349951
+"LA","Louisiana","2004","Hunting",272912
+"MA","Massachusetts","2004","Hunting",68488
+"MD","Maryland","2004","Hunting",128569
+"ME","Maine","2004","Hunting",197908
+"MI","Michigan","2004","Hunting",870432
+"MN","Minnesota","2004","Hunting",585104
+"MO","Missouri","2004","Hunting",539062
+"MS","Mississippi","2004","Hunting",249591
+"MT","Montana","2004","Hunting",227365
+"NC","North Carolina","2004","Hunting",433135
+"ND","North Dakota","2004","Hunting",141816
+"NE","Nebraska","2004","Hunting",174927
+"NH","New Hampshire","2004","Hunting",67586
+"NJ","New Jersey","2004","Hunting",82814
+"NM","New Mexico","2004","Hunting",111188
+"NV","Nevada","2004","Hunting",61455
+"NY","New York","2004","Hunting",696679
+"OH","Ohio","2004","Hunting",426856
+"OK","Oklahoma","2004","Hunting",330336
+"OR","Oregon","2004","Hunting",297944
+"PA","Pennsylvania","2004","Hunting",1048731
+"RI","Rhode Island","2004","Hunting",10750
+"SC","South Carolina","2004","Hunting",279203
+"SD","South Dakota","2004","Hunting",216152
+"TN","Tennessee","2004","Hunting",725110
+"TX","Texas","2004","Hunting",1027908
+"UT","Utah","2004","Hunting",159678
+"VA","Virginia","2004","Hunting",314748
+"VT","Vermont","2004","Hunting",92138
+"WA","Washington","2004","Hunting",198162
+"WI","Wisconsin","2004","Hunting",689099
+"WV","West Virginia","2004","Hunting",288098
+"AK","Alaska","2003","Hunting",99121
+"AL","Alabama","2003","Hunting",270229
+"AR","Arkansas","2003","Hunting",386559
+"AZ","Arizona","2003","Hunting",181467
+"CA","California","2003","Hunting",315588
+"CO","Colorado","2003","Hunting",309801
+"CT","Connecticut","2003","Hunting",54926
+"DE","Delaware","2003","Hunting",20066
+"FL","Florida","2003","Hunting",176320
+"GA","Georgia","2003","Hunting",331795
+"HI","Hawaii","2003","Hunting",8388
+"IA","Iowa","2003","Hunting",269014
+"ID","Idaho","2003","Hunting",245358
+"IL","Illinois","2003","Hunting",293994
+"IN","Indiana","2003","Hunting",232819
+"KS","Kansas","2003","Hunting",195874
+"KY","Kentucky","2003","Hunting",347379
+"LA","Louisiana","2003","Hunting",268793
+"MA","Massachusetts","2003","Hunting",56662
+"MD","Maryland","2003","Hunting",123699
+"ME","Maine","2003","Hunting",201136
+"MI","Michigan","2003","Hunting",863946
+"MN","Minnesota","2003","Hunting",573424
+"MO","Missouri","2003","Hunting",542477
+"MS","Mississippi","2003","Hunting",235447
+"MT","Montana","2003","Hunting",232276
+"NC","North Carolina","2003","Hunting",433542
+"ND","North Dakota","2003","Hunting",146010
+"NE","Nebraska","2003","Hunting",176502
+"NH","New Hampshire","2003","Hunting",63975
+"NJ","New Jersey","2003","Hunting",81501
+"NM","New Mexico","2003","Hunting",109948
+"NV","Nevada","2003","Hunting",60805
+"NY","New York","2003","Hunting",641572
+"OH","Ohio","2003","Hunting",425992
+"OK","Oklahoma","2003","Hunting",331672
+"OR","Oregon","2003","Hunting",295422
+"PA","Pennsylvania","2003","Hunting",1017802
+"RI","Rhode Island","2003","Hunting",10691
+"SC","South Carolina","2003","Hunting",272752
+"SD","South Dakota","2003","Hunting",207973
+"TN","Tennessee","2003","Hunting",727525
+"TX","Texas","2003","Hunting",1039327
+"UT","Utah","2003","Hunting",154884
+"VA","Virginia","2003","Hunting",304605
+"VT","Vermont","2003","Hunting",90110
+"WA","Washington","2003","Hunting",194308
+"WI","Wisconsin","2003","Hunting",716200
+"WV","West Virginia","2003","Hunting",262835
+"WY","Wyoming","2003","Hunting",137677
+"AL","Alabama","2002","Hunting",273638
+"AK","Alaska","2002","Hunting",97537
+"AZ","Arizona","2002","Hunting",183478
+"AR","Arkansas","2002","Hunting",402493
+"CA","California","2002","Hunting",320092
+"CO","Colorado","2002","Hunting",300574
+"CT","Connecticut","2002","Hunting",57720
+"DE","Delaware","2002","Hunting",21488
+"FL","Florida","2002","Hunting",181857
+"GA","Georgia","2002","Hunting",338045
+"HI","Hawaii","2002","Hunting",9032
+"ID","Idaho","2002","Hunting",246284
+"IL","Illinois","2002","Hunting",300883
+"IN","Indiana","2002","Hunting",285573
+"IA","Iowa","2002","Hunting",257899
+"KS","Kansas","2002","Hunting",188310
+"KY","Kentucky","2002","Hunting",349951
+"LA","Louisiana","2002","Hunting",272912
+"ME","Maine","2002","Hunting",197908
+"MD","Maryland","2002","Hunting",128569
+"MA","Massachusetts","2002","Hunting",68488
+"MI","Michigan","2002","Hunting",870432
+"MN","Minnesota","2002","Hunting",585104
+"MS","Mississippi","2002","Hunting",249591
+"MO","Missouri","2002","Hunting",539062
+"MT","Montana","2002","Hunting",227365
+"NE","Nebraska","2002","Hunting",174927
+"NV","Nevada","2002","Hunting",61455
+"NH","New Hampshire","2002","Hunting",67586
+"NJ","New Jersey","2002","Hunting",82814
+"NM","New Mexico","2002","Hunting",111188
+"NY","New York","2002","Hunting",696679
+"NC","North Carolina","2002","Hunting",433135
+"ND","North Dakota","2002","Hunting",141816
+"OH","Ohio","2002","Hunting",426856
+"OK","Oklahoma","2002","Hunting",330336
+"OR","Oregon","2002","Hunting",297944
+"PA","Pennsylvania","2002","Hunting",1048731
+"RI","Rhode Island","2002","Hunting",10750
+"SC","South Carolina","2002","Hunting",279203
+"SD","South Dakota","2002","Hunting",216152
+"TN","Tennessee","2002","Hunting",725110
+"TX","Texas","2002","Hunting",1027908
+"UT","Utah","2002","Hunting",159678
+"VT","Vermont","2002","Hunting",92138
+"VA","Virginia","2002","Hunting",314748
+"WA","Washington","2002","Hunting",198162
+"WV","West Virginia","2002","Hunting",288098
+"WI","Wisconsin","2002","Hunting",689099
+"WY","Wyoming","2002","Hunting",137608
+"AL","Alabama","2001","Hunting",278052
+"AK","Alaska","2001","Hunting",93377
+"AZ","Arizona","2001","Hunting",191653
+"AR","Arkansas","2001","Hunting",400555
+"CA","California","2001","Hunting",316549
+"CO","Colorado","2001","Hunting",298292
+"CT","Connecticut","2001","Hunting",59309
+"DE","Delaware","2001","Hunting",20918
+"FL","Florida","2001","Hunting",181635
+"GA","Georgia","2001","Hunting",335149
+"HI","Hawaii","2001","Hunting",8867
+"ID","Idaho","2001","Hunting",246844
+"IL","Illinois","2001","Hunting",297641
+"IN","Indiana","2001","Hunting",282781
+"IA","Iowa","2001","Hunting",259898
+"KS","Kansas","2001","Hunting",204475
+"KY","Kentucky","2001","Hunting",355134
+"LA","Louisiana","2001","Hunting",270907
+"ME","Maine","2001","Hunting",198923
+"MD","Maryland","2001","Hunting",136416
+"MA","Massachusetts","2001","Hunting",62024
+"MI","Michigan","2001","Hunting",887235
+"MN","Minnesota","2001","Hunting",580338
+"MS","Mississippi","2001","Hunting",249706
+"MO","Missouri","2001","Hunting",518923
+"MT","Montana","2001","Hunting",279727
+"NE","Nebraska","2001","Hunting",177757
+"NV","Nevada","2001","Hunting",61341
+"NH","New Hampshire","2001","Hunting",73281
+"NJ","New Jersey","2001","Hunting",86156
+"NM","New Mexico","2001","Hunting",111896
+"NY","New York","2001","Hunting",694815
+"NC","North Carolina","2001","Hunting",425830
+"ND","North Dakota","2001","Hunting",131375
+"OH","Ohio","2001","Hunting",422180
+"OK","Oklahoma","2001","Hunting",327120
+"OR","Oregon","2001","Hunting",303635
+"PA","Pennsylvania","2001","Hunting",1034804
+"RI","Rhode Island","2001","Hunting",12285
+"SC","South Carolina","2001","Hunting",277691
+"SD","South Dakota","2001","Hunting",217007
+"TN","Tennessee","2001","Hunting",626978
+"TX","Texas","2001","Hunting",1020674
+"UT","Utah","2001","Hunting",167393
+"VT","Vermont","2001","Hunting",96093
+"VA","Virginia","2001","Hunting",315402
+"WA","Washington","2001","Hunting",213276
+"WV","West Virginia","2001","Hunting",276242
+"WI","Wisconsin","2001","Hunting",763063
+"WY","Wyoming","2001","Hunting",138948
+"AL","Alabama","2000","Hunting",271865
+"AK","Alaska","2000","Hunting",97508
+"AZ","Arizona","2000","Hunting",196659
+"AR","Arkansas","2000","Hunting",395304
+"CA","California","2000","Hunting",317063
+"CO","Colorado","2000","Hunting",337475
+"CT","Connecticut","2000","Hunting",60345
+"DE","Delaware","2000","Hunting",21383
+"FL","Florida","2000","Hunting",177116
+"GA","Georgia","2000","Hunting",330151
+"HI","Hawaii","2000","Hunting",9255
+"ID","Idaho","2000","Hunting",249188
+"IL","Illinois","2000","Hunting",310062
+"IN","Indiana","2000","Hunting",292694
+"IA","Iowa","2000","Hunting",266880
+"KS","Kansas","2000","Hunting",209626
+"KY","Kentucky","2000","Hunting",346970
+"LA","Louisiana","2000","Hunting",278521
+"ME","Maine","2000","Hunting",208666
+"MD","Maryland","2000","Hunting",133810
+"MA","Massachusetts","2000","Hunting",68866
+"MI","Michigan","2000","Hunting",897916
+"MN","Minnesota","2000","Hunting",578230
+"MS","Mississippi","2000","Hunting",252039
+"MO","Missouri","2000","Hunting",503609
+"MT","Montana","2000","Hunting",283815
+"NE","Nebraska","2000","Hunting",184903
+"NV","Nevada","2000","Hunting",60345
+"NH","New Hampshire","2000","Hunting",76258
+"NJ","New Jersey","2000","Hunting",86685
+"NM","New Mexico","2000","Hunting",109168
+"NY","New York","2000","Hunting",695622
+"NC","North Carolina","2000","Hunting",404562
+"ND","North Dakota","2000","Hunting",123473
+"OH","Ohio","2000","Hunting",448950
+"OK","Oklahoma","2000","Hunting",306185
+"OR","Oregon","2000","Hunting",310739
+"PA","Pennsylvania","2000","Hunting",1028297
+"RI","Rhode Island","2000","Hunting",11484
+"SC","South Carolina","2000","Hunting",258706
+"SD","South Dakota","2000","Hunting",228209
+"TN","Tennessee","2000","Hunting",631580
+"TX","Texas","2000","Hunting",983485
+"UT","Utah","2000","Hunting",171710
+"VT","Vermont","2000","Hunting",101687
+"VA","Virginia","2000","Hunting",315070
+"WA","Washington","2000","Hunting",214969
+"WV","West Virginia","2000","Hunting",276566
+"WI","Wisconsin","2000","Hunting",773239
+"WY","Wyoming","2000","Hunting",147416
+"AL","Alabama","1999","Hunting",272525
+"AK","Alaska","1999","Hunting",95745
+"AZ","Arizona","1999","Hunting",198025
+"AR","Arkansas","1999","Hunting",412114
+"CA","California","1999","Hunting",309236
+"CO","Colorado","1999","Hunting",328879
+"CT","Connecticut","1999","Hunting",61608
+"DE","Delaware","1999","Hunting",21357
+"FL","Florida","1999","Hunting",179344
+"GA","Georgia","1999","Hunting",332635
+"HI","Hawaii","1999","Hunting",9346
+"ID","Idaho","1999","Hunting",250243
+"IL","Illinois","1999","Hunting",308662
+"IN","Indiana","1999","Hunting",300732
+"IA","Iowa","1999","Hunting",275780
+"KS","Kansas","1999","Hunting",209734
+"KY","Kentucky","1999","Hunting",280991
+"LA","Louisiana","1999","Hunting",271541
+"ME","Maine","1999","Hunting",207004
+"MD","Maryland","1999","Hunting",135436
+"MA","Massachusetts","1999","Hunting",74241
+"MI","Michigan","1999","Hunting",920473
+"MN","Minnesota","1999","Hunting",555926
+"MS","Mississippi","1999","Hunting",250035
+"MO","Missouri","1999","Hunting",505662
+"MT","Montana","1999","Hunting",280382
+"NE","Nebraska","1999","Hunting",186452
+"NV","Nevada","1999","Hunting",59501
+"NH","New Hampshire","1999","Hunting",78328
+"NJ","New Jersey","1999","Hunting",89460
+"NM","New Mexico","1999","Hunting",103990
+"NY","New York","1999","Hunting",698844
+"NC","North Carolina","1999","Hunting",399043
+"ND","North Dakota","1999","Hunting",116664
+"OH","Ohio","1999","Hunting",519996
+"OK","Oklahoma","1999","Hunting",296548
+"OR","Oregon","1999","Hunting",318133
+"PA","Pennsylvania","1999","Hunting",1071955
+"RI","Rhode Island","1999","Hunting",11704
+"SC","South Carolina","1999","Hunting",263045
+"SD","South Dakota","1999","Hunting",204599
+"TN","Tennessee","1999","Hunting",613654
+"TX","Texas","1999","Hunting",978837
+"UT","Utah","1999","Hunting",190092
+"VT","Vermont","1999","Hunting",103629
+"VA","Virginia","1999","Hunting",317939
+"WA","Washington","1999","Hunting",286188
+"WV","West Virginia","1999","Hunting",282195
+"WI","Wisconsin","1999","Hunting",769420
+"WY","Wyoming","1999","Hunting",136736
+"AL","Alabama","1998","Hunting",273506
+"AK","Alaska","1998","Hunting",95364
+"AZ","Arizona","1998","Hunting",190037
+"AR","Arkansas","1998","Hunting",330689
+"CA","California","1998","Hunting",316815
+"CO","Colorado","1998","Hunting",362927
+"CT","Connecticut","1998","Hunting",62556
+"DE","Delaware","1998","Hunting",21675
+"FL","Florida","1998","Hunting",181177
+"GA","Georgia","1998","Hunting",331705
+"HI","Hawaii","1998","Hunting",9613
+"ID","Idaho","1998","Hunting",227984
+"IL","Illinois","1998","Hunting",305663
+"IN","Indiana","1998","Hunting",300755
+"IA","Iowa","1998","Hunting",273628
+"KS","Kansas","1998","Hunting",200119
+"KY","Kentucky","1998","Hunting",278635
+"LA","Louisiana","1998","Hunting",271207
+"ME","Maine","1998","Hunting",201140
+"MD","Maryland","1998","Hunting",142909
+"MA","Massachusetts","1998","Hunting",75070
+"MI","Michigan","1998","Hunting",957264
+"MN","Minnesota","1998","Hunting",538684
+"MS","Mississippi","1998","Hunting",247285
+"MO","Missouri","1998","Hunting",500128
+"MT","Montana","1998","Hunting",277711
+"NE","Nebraska","1998","Hunting",180684
+"NV","Nevada","1998","Hunting",57563
+"NH","New Hampshire","1998","Hunting",81354
+"NJ","New Jersey","1998","Hunting",105202
+"NM","New Mexico","1998","Hunting",115557
+"NY","New York","1998","Hunting",693516
+"NC","North Carolina","1998","Hunting",384273
+"ND","North Dakota","1998","Hunting",110819
+"OH","Ohio","1998","Hunting",535033
+"OK","Oklahoma","1998","Hunting",286117
+"OR","Oregon","1998","Hunting",318027
+"PA","Pennsylvania","1998","Hunting",1066032
+"RI","Rhode Island","1998","Hunting",12675
+"SC","South Carolina","1998","Hunting",224207
+"SD","South Dakota","1998","Hunting",184837
+"TN","Tennessee","1998","Hunting",595605
+"TX","Texas","1998","Hunting",975943
+"UT","Utah","1998","Hunting",196818
+"VT","Vermont","1998","Hunting",97000
+"VA","Virginia","1998","Hunting",323459
+"WA","Washington","1998","Hunting",219483
+"WV","West Virginia","1998","Hunting",276053
+"WI","Wisconsin","1998","Hunting",742669
+"WY","Wyoming","1998","Hunting",131491
+"AL","Alabama","1997","Hunting",266386
+"AK","Alaska","1997","Hunting",101306
+"AZ","Arizona","1997","Hunting",180733
+"AR","Arkansas","1997","Hunting",319402
+"CA","California","1997","Hunting",328824
+"CO","Colorado","1997","Hunting",352823
+"CT","Connecticut","1997","Hunting",63883
+"DE","Delaware","1997","Hunting",21988
+"FL","Florida","1997","Hunting",205939
+"GA","Georgia","1997","Hunting",342110
+"HI","Hawaii","1997","Hunting",10074
+"ID","Idaho","1997","Hunting",234401
+"IL","Illinois","1997","Hunting",320657
+"IN","Indiana","1997","Hunting",287443
+"IA","Iowa","1997","Hunting",271695
+"KS","Kansas","1997","Hunting",178203
+"KY","Kentucky","1997","Hunting",271364
+"LA","Louisiana","1997","Hunting",266746
+"ME","Maine","1997","Hunting",196822
+"MD","Maryland","1997","Hunting",140859
+"MA","Massachusetts","1997","Hunting",83443
+"MI","Michigan","1997","Hunting",952584
+"MN","Minnesota","1997","Hunting",555630
+"MS","Mississippi","1997","Hunting",242854
+"MO","Missouri","1997","Hunting",515379
+"MT","Montana","1997","Hunting",284697
+"NE","Nebraska","1997","Hunting",189364
+"NV","Nevada","1997","Hunting",55380
+"NH","New Hampshire","1997","Hunting",81477
+"NJ","New Jersey","1997","Hunting",105931
+"NM","New Mexico","1997","Hunting",106909
+"NY","New York","1997","Hunting",709054
+"NC","North Carolina","1997","Hunting",353606
+"ND","North Dakota","1997","Hunting",116914
+"OH","Ohio","1997","Hunting",528703
+"OK","Oklahoma","1997","Hunting",275424
+"OR","Oregon","1997","Hunting",317072
+"PA","Pennsylvania","1997","Hunting",1091568
+"RI","Rhode Island","1997","Hunting",13196
+"SC","South Carolina","1997","Hunting",223123
+"SD","South Dakota","1997","Hunting",214133
+"TN","Tennessee","1997","Hunting",600117
+"TX","Texas","1997","Hunting",942359
+"UT","Utah","1997","Hunting",191745
+"VT","Vermont","1997","Hunting",94247
+"VA","Virginia","1997","Hunting",331559
+"WA","Washington","1997","Hunting",235477
+"WV","West Virginia","1997","Hunting",279245
+"WI","Wisconsin","1997","Hunting",739345
+"WY","Wyoming","1997","Hunting",114633
+"AL","Alabama","1996","Hunting",269097
+"AK","Alaska","1996","Hunting",95260
+"AZ","Arizona","1996","Hunting",179731
+"AR","Arkansas","1996","Hunting",323990
+"CA","California","1996","Hunting",343838
+"CO","Colorado","1996","Hunting",349491
+"CT","Connecticut","1996","Hunting",65596
+"DE","Delaware","1996","Hunting",21607
+"FL","Florida","1996","Hunting",183808
+"GA","Georgia","1996","Hunting",339416
+"HI","Hawaii","1996","Hunting",10534
+"ID","Idaho","1996","Hunting",234905
+"IL","Illinois","1996","Hunting",328278
+"IN","Indiana","1996","Hunting",297330
+"IA","Iowa","1996","Hunting",266855
+"KS","Kansas","1996","Hunting",172387
+"KY","Kentucky","1996","Hunting",281746
+"LA","Louisiana","1996","Hunting",267347
+"ME","Maine","1996","Hunting",202235
+"MD","Maryland","1996","Hunting",143756
+"MA","Massachusetts","1996","Hunting",61993
+"MI","Michigan","1996","Hunting",964531
+"MN","Minnesota","1996","Hunting",572895
+"MS","Mississippi","1996","Hunting",241393
+"MO","Missouri","1996","Hunting",456132
+"MT","Montana","1996","Hunting",290775
+"NE","Nebraska","1996","Hunting",191006
+"NV","Nevada","1996","Hunting",55832
+"NH","New Hampshire","1996","Hunting",83292
+"NJ","New Jersey","1996","Hunting",108315
+"NM","New Mexico","1996","Hunting",97766
+"NY","New York","1996","Hunting",724019
+"NC","North Carolina","1996","Hunting",367722
+"ND","North Dakota","1996","Hunting",112822
+"OH","Ohio","1996","Hunting",538623
+"OK","Oklahoma","1996","Hunting",272961
+"OR","Oregon","1996","Hunting",317715
+"PA","Pennsylvania","1996","Hunting",1112964
+"RI","Rhode Island","1996","Hunting",13082
+"SC","South Carolina","1996","Hunting",219049
+"SD","South Dakota","1996","Hunting",217394
+"TN","Tennessee","1996","Hunting",585304
+"TX","Texas","1996","Hunting",1040938
+"UT","Utah","1996","Hunting",212829
+"VT","Vermont","1996","Hunting",96318
+"VA","Virginia","1996","Hunting",340397
+"WA","Washington","1996","Hunting",252933
+"WV","West Virginia","1996","Hunting",277978
+"WI","Wisconsin","1996","Hunting",813111
+"WY","Wyoming","1996","Hunting",127007
+"AL","Alabama","1995","Hunting",274072
+"AK","Alaska","1995","Hunting",90669
+"AZ","Arizona","1995","Hunting",183903
+"AR","Arkansas","1995","Hunting",321860
+"CA","California","1995","Hunting",354555
+"CO","Colorado","1995","Hunting",295895
+"CT","Connecticut","1995","Hunting",67716
+"DE","Delaware","1995","Hunting",21463
+"FL","Florida","1995","Hunting",184242
+"GA","Georgia","1995","Hunting",350346
+"HI","Hawaii","1995","Hunting",10486
+"ID","Idaho","1995","Hunting",235408
+"IL","Illinois","1995","Hunting",324794
+"IN","Indiana","1995","Hunting",335438
+"IA","Iowa","1995","Hunting",263690
+"KS","Kansas","1995","Hunting",187110
+"KY","Kentucky","1995","Hunting",288770
+"LA","Louisiana","1995","Hunting",266609
+"ME","Maine","1995","Hunting",203669
+"MD","Maryland","1995","Hunting",150992
+"MA","Massachusetts","1995","Hunting",99397
+"MI","Michigan","1995","Hunting",934430
+"MN","Minnesota","1995","Hunting",576187
+"MS","Mississippi","1995","Hunting",246389
+"MO","Missouri","1995","Hunting",450881
+"MT","Montana","1995","Hunting",295151
+"NE","Nebraska","1995","Hunting",185329
+"NV","Nevada","1995","Hunting",55427
+"NH","New Hampshire","1995","Hunting",81458
+"NJ","New Jersey","1995","Hunting",112515
+"NM","New Mexico","1995","Hunting",113716
+"NY","New York","1995","Hunting",721706
+"NC","North Carolina","1995","Hunting",367619
+"ND","North Dakota","1995","Hunting",106653
+"OH","Ohio","1995","Hunting",539457
+"OK","Oklahoma","1995","Hunting",268714
+"OR","Oregon","1995","Hunting",307253
+"PA","Pennsylvania","1995","Hunting",1138343
+"RI","Rhode Island","1995","Hunting",13352
+"SC","South Carolina","1995","Hunting",217351
+"SD","South Dakota","1995","Hunting",210130
+"TN","Tennessee","1995","Hunting",599935
+"TX","Texas","1995","Hunting",1064803
+"UT","Utah","1995","Hunting",166838
+"VT","Vermont","1995","Hunting",100810
+"VA","Virginia","1995","Hunting",352778
+"WA","Washington","1995","Hunting",305502
+"WV","West Virginia","1995","Hunting",279891
+"WI","Wisconsin","1995","Hunting",784003
+"WY","Wyoming","1995","Hunting",125088
+"AL","Alabama","1994","Hunting",276235
+"AK","Alaska","1994","Hunting",89956
+"AZ","Arizona","1994","Hunting",182408
+"AR","Arkansas","1994","Hunting",313007
+"CA","California","1994","Hunting",363397
+"CO","Colorado","1994","Hunting",301710
+"CT","Connecticut","1994","Hunting",67013
+"DE","Delaware","1994","Hunting",23811
+"FL","Florida","1994","Hunting",189650
+"GA","Georgia","1994","Hunting",347795
+"HI","Hawaii","1994","Hunting",10673
+"ID","Idaho","1994","Hunting",247113
+"IL","Illinois","1994","Hunting",323991
+"IN","Indiana","1994","Hunting",332150
+"IA","Iowa","1994","Hunting",232303
+"KS","Kansas","1994","Hunting",193172
+"KY","Kentucky","1994","Hunting",291009
+"LA","Louisiana","1994","Hunting",267324
+"ME","Maine","1994","Hunting",206801
+"MD","Maryland","1994","Hunting",149291
+"MA","Massachusetts","1994","Hunting",100762
+"MI","Michigan","1994","Hunting",1126826
+"MN","Minnesota","1994","Hunting",563602
+"MS","Mississippi","1994","Hunting",252513
+"MO","Missouri","1994","Hunting",441855
+"MT","Montana","1994","Hunting",272032
+"NE","Nebraska","1994","Hunting",170225
+"NV","Nevada","1994","Hunting",52641
+"NH","New Hampshire","1994","Hunting",81827
+"NJ","New Jersey","1994","Hunting",115187
+"NM","New Mexico","1994","Hunting",112232
+"NY","New York","1994","Hunting",750062
+"NC","North Carolina","1994","Hunting",350497
+"ND","North Dakota","1994","Hunting",109735
+"OH","Ohio","1994","Hunting",534168
+"OK","Oklahoma","1994","Hunting",282136
+"OR","Oregon","1994","Hunting",302649
+"PA","Pennsylvania","1994","Hunting",1149426
+"RI","Rhode Island","1994","Hunting",13329
+"SC","South Carolina","1994","Hunting",214086
+"SD","South Dakota","1994","Hunting",187730
+"TN","Tennessee","1994","Hunting",591839
+"TX","Texas","1994","Hunting",1072347
+"UT","Utah","1994","Hunting",164107
+"VT","Vermont","1994","Hunting",103942
+"VA","Virginia","1994","Hunting",356653
+"WA","Washington","1994","Hunting",270286
+"WV","West Virginia","1994","Hunting",282507
+"WI","Wisconsin","1994","Hunting",773261
+"WY","Wyoming","1994","Hunting",136029
+"AL","Alabama","1993","Hunting",276897
+"AK","Alaska","1993","Hunting",90276
+"AZ","Arizona","1993","Hunting",173695
+"AR","Arkansas","1993","Hunting",312785
+"CA","California","1993","Hunting",367373
+"CO","Colorado","1993","Hunting",313346
+"CT","Connecticut","1993","Hunting",73389
+"DE","Delaware","1993","Hunting",23848
+"FL","Florida","1993","Hunting",191904
+"GA","Georgia","1993","Hunting",351234
+"HI","Hawaii","1993","Hunting",10124
+"ID","Idaho","1993","Hunting",253206
+"IL","Illinois","1993","Hunting",323271
+"IN","Indiana","1993","Hunting",330849
+"IA","Iowa","1993","Hunting",247494
+"KS","Kansas","1993","Hunting",179515
+"KY","Kentucky","1993","Hunting",307549
+"LA","Louisiana","1993","Hunting",274440
+"ME","Maine","1993","Hunting",214135
+"MD","Maryland","1993","Hunting",158528
+"MA","Massachusetts","1993","Hunting",100762
+"MI","Michigan","1993","Hunting",1140700
+"MN","Minnesota","1993","Hunting",564203
+"MS","Mississippi","1993","Hunting",265198
+"MO","Missouri","1993","Hunting",455362
+"MT","Montana","1993","Hunting",268286
+"NE","Nebraska","1993","Hunting",170059
+"NV","Nevada","1993","Hunting",51530
+"NH","New Hampshire","1993","Hunting",84037
+"NJ","New Jersey","1993","Hunting",118736
+"NM","New Mexico","1993","Hunting",112779
+"NY","New York","1993","Hunting",758377
+"NC","North Carolina","1993","Hunting",357760
+"ND","North Dakota","1993","Hunting",109908
+"OH","Ohio","1993","Hunting",527336
+"OK","Oklahoma","1993","Hunting",273695
+"OR","Oregon","1993","Hunting",315643
+"PA","Pennsylvania","1993","Hunting",1173428
+"RI","Rhode Island","1993","Hunting",13938
+"SC","South Carolina","1993","Hunting",208553
+"SD","South Dakota","1993","Hunting",179870
+"TN","Tennessee","1993","Hunting",571756
+"TX","Texas","1993","Hunting",1081582
+"UT","Utah","1993","Hunting",204814
+"VT","Vermont","1993","Hunting",108580
+"VA","Virginia","1993","Hunting",370898
+"WA","Washington","1993","Hunting",280981
+"WV","West Virginia","1993","Hunting",282507
+"WI","Wisconsin","1993","Hunting",798843
+"WY","Wyoming","1993","Hunting",203784
+"AL","Alabama","1992","Hunting",274551
+"AK","Alaska","1992","Hunting",93418
+"AZ","Arizona","1992","Hunting",164518
+"AR","Arkansas","1992","Hunting",312555
+"CA","California","1992","Hunting",372038
+"CO","Colorado","1992","Hunting",301910
+"CT","Connecticut","1992","Hunting",73305
+"DE","Delaware","1992","Hunting",24226
+"FL","Florida","1992","Hunting",198015
+"GA","Georgia","1992","Hunting",364353
+"HI","Hawaii","1992","Hunting",10090
+"ID","Idaho","1992","Hunting",246372
+"IL","Illinois","1992","Hunting",326194
+"IN","Indiana","1992","Hunting",339066
+"IA","Iowa","1992","Hunting",275489
+"KS","Kansas","1992","Hunting",185032
+"KY","Kentucky","1992","Hunting",312637
+"LA","Louisiana","1992","Hunting",274881
+"ME","Maine","1992","Hunting",211196
+"MD","Maryland","1992","Hunting",158765
+"MA","Massachusetts","1992","Hunting",111971
+"MI","Michigan","1992","Hunting",1171721
+"MN","Minnesota","1992","Hunting",545085
+"MS","Mississippi","1992","Hunting",300802
+"MO","Missouri","1992","Hunting",549670
+"MT","Montana","1992","Hunting",265727
+"NE","Nebraska","1992","Hunting",169933
+"NV","Nevada","1992","Hunting",51649
+"NH","New Hampshire","1992","Hunting",84996
+"NJ","New Jersey","1992","Hunting",121277
+"NM","New Mexico","1992","Hunting",92394
+"NY","New York","1992","Hunting",771196
+"NC","North Carolina","1992","Hunting",359391
+"ND","North Dakota","1992","Hunting",97968
+"OH","Ohio","1992","Hunting",533185
+"OK","Oklahoma","1992","Hunting",275311
+"OR","Oregon","1992","Hunting",319025
+"PA","Pennsylvania","1992","Hunting",1170602
+"RI","Rhode Island","1992","Hunting",12875
+"SC","South Carolina","1992","Hunting",205997
+"SD","South Dakota","1992","Hunting",164855
+"TN","Tennessee","1992","Hunting",602465
+"TX","Texas","1992","Hunting",1045858
+"UT","Utah","1992","Hunting",233436
+"VT","Vermont","1992","Hunting",107162
+"VA","Virginia","1992","Hunting",380544
+"WA","Washington","1992","Hunting",265668
+"WV","West Virginia","1992","Hunting",281506
+"WI","Wisconsin","1992","Hunting",773759
+"WY","Wyoming","1992","Hunting",162067
+"AL","Alabama","1991","Hunting",271890
+"AK","Alaska","1991","Hunting",94750
+"AZ","Arizona","1991","Hunting",158742
+"AR","Arkansas","1991","Hunting",298219
+"CA","California","1991","Hunting",382713
+"CO","Colorado","1991","Hunting",326962
+"CT","Connecticut","1991","Hunting",88803
+"DE","Delaware","1991","Hunting",24669
+"FL","Florida","1991","Hunting",204994
+"GA","Georgia","1991","Hunting",355475
+"HI","Hawaii","1991","Hunting",9921
+"ID","Idaho","1991","Hunting",236780
+"IL","Illinois","1991","Hunting",342893
+"IN","Indiana","1991","Hunting",321616
+"IA","Iowa","1991","Hunting",266010
+"KS","Kansas","1991","Hunting",196116
+"KY","Kentucky","1991","Hunting",317687
+"LA","Louisiana","1991","Hunting",279021
+"ME","Maine","1991","Hunting",208518
+"MD","Maryland","1991","Hunting",157356
+"MA","Massachusetts","1991","Hunting",112519
+"MI","Michigan","1991","Hunting",1156422
+"MN","Minnesota","1991","Hunting",521268
+"MS","Mississippi","1991","Hunting",292265
+"MO","Missouri","1991","Hunting",547324
+"MT","Montana","1991","Hunting",259335
+"NE","Nebraska","1991","Hunting",168311
+"NV","Nevada","1991","Hunting",52836
+"NH","New Hampshire","1991","Hunting",96019
+"NJ","New Jersey","1991","Hunting",125124
+"NM","New Mexico","1991","Hunting",136558
+"NY","New York","1991","Hunting",728217
+"NC","North Carolina","1991","Hunting",373145
+"ND","North Dakota","1991","Hunting",90409
+"OH","Ohio","1991","Hunting",499904
+"OK","Oklahoma","1991","Hunting",259541
+"OR","Oregon","1991","Hunting",327304
+"PA","Pennsylvania","1991","Hunting",1170119
+"RI","Rhode Island","1991","Hunting",13352
+"SC","South Carolina","1991","Hunting",196690
+"SD","South Dakota","1991","Hunting",147977
+"TN","Tennessee","1991","Hunting",587802
+"TX","Texas","1991","Hunting",1105389
+"UT","Utah","1991","Hunting",233596
+"VT","Vermont","1991","Hunting",110864
+"VA","Virginia","1991","Hunting",397243
+"WA","Washington","1991","Hunting",276409
+"WV","West Virginia","1991","Hunting",265122
+"WI","Wisconsin","1991","Hunting",771553
+"WY","Wyoming","1991","Hunting",153093
+"AL","Alabama","1990","Hunting",265106
+"AK","Alaska","1990","Hunting",83505
+"AZ","Arizona","1990","Hunting",165179
+"AR","Arkansas","1990","Hunting",349166
+"CA","California","1990","Hunting",390655
+"CO","Colorado","1990","Hunting",327979
+"CT","Connecticut","1990","Hunting",90709
+"DE","Delaware","1990","Hunting",25005
+"FL","Florida","1990","Hunting",221638
+"GA","Georgia","1990","Hunting",361984
+"HI","Hawaii","1990","Hunting",13226
+"ID","Idaho","1990","Hunting",241476
+"IL","Illinois","1990","Hunting",329734
+"IN","Indiana","1990","Hunting",317486
+"IA","Iowa","1990","Hunting",271663
+"KS","Kansas","1990","Hunting",188314
+"KY","Kentucky","1990","Hunting",327083
+"LA","Louisiana","1990","Hunting",272202
+"ME","Maine","1990","Hunting",214518
+"MD","Maryland","1990","Hunting",141917
+"MA","Massachusetts","1990","Hunting",116300
+"MI","Michigan","1990","Hunting",1148163
+"MN","Minnesota","1990","Hunting",540277
+"MS","Mississippi","1990","Hunting",292027
+"MO","Missouri","1990","Hunting",557855
+"MT","Montana","1990","Hunting",255333
+"NE","Nebraska","1990","Hunting",169888
+"NV","Nevada","1990","Hunting",53706
+"NH","New Hampshire","1990","Hunting",90078
+"NJ","New Jersey","1990","Hunting",125715
+"NM","New Mexico","1990","Hunting",138761
+"NY","New York","1990","Hunting",737112
+"NC","North Carolina","1990","Hunting",331083
+"ND","North Dakota","1990","Hunting",91102
+"OH","Ohio","1990","Hunting",491494
+"OK","Oklahoma","1990","Hunting",247019
+"OR","Oregon","1990","Hunting",347819
+"PA","Pennsylvania","1990","Hunting",1168137
+"RI","Rhode Island","1990","Hunting",12782
+"SC","South Carolina","1990","Hunting",190621
+"SD","South Dakota","1990","Hunting",145823
+"TN","Tennessee","1990","Hunting",600413
+"TX","Texas","1990","Hunting",1138011
+"UT","Utah","1990","Hunting",230268
+"VT","Vermont","1990","Hunting",109938
+"VA","Virginia","1990","Hunting",439738
+"WA","Washington","1990","Hunting",268653
+"WV","West Virginia","1990","Hunting",272985
+"WI","Wisconsin","1990","Hunting",741188
+"WY","Wyoming","1990","Hunting",146456
+"AL","Alabama","1989","Hunting",280622
+"AK","Alaska","1989","Hunting",83291
+"AZ","Arizona","1989","Hunting",170264
+"AR","Arkansas","1989","Hunting",353803
+"CA","California","1989","Hunting",422909
+"CO","Colorado","1989","Hunting",340911
+"CT","Connecticut","1989","Hunting",87722
+"DE","Delaware","1989","Hunting",25603
+"FL","Florida","1989","Hunting",233770
+"GA","Georgia","1989","Hunting",418001
+"HI","Hawaii","1989","Hunting",12077
+"ID","Idaho","1989","Hunting",238730
+"IL","Illinois","1989","Hunting",333473
+"IN","Indiana","1989","Hunting",303140
+"IA","Iowa","1989","Hunting",259083
+"KS","Kansas","1989","Hunting",189926
+"KY","Kentucky","1989","Hunting",323473
+"LA","Louisiana","1989","Hunting",288534
+"ME","Maine","1989","Hunting",220263
+"MD","Maryland","1989","Hunting",164943
+"MA","Massachusetts","1989","Hunting",111876
+"MI","Michigan","1989","Hunting",938503
+"MN","Minnesota","1989","Hunting",551377
+"MS","Mississippi","1989","Hunting",302186
+"MO","Missouri","1989","Hunting",554514
+"MT","Montana","1989","Hunting",256238
+"NE","Nebraska","1989","Hunting",169199
+"NV","Nevada","1989","Hunting",157896
+"NH","New Hampshire","1989","Hunting",93942
+"NJ","New Jersey","1989","Hunting",128338
+"NM","New Mexico","1989","Hunting",147494
+"NY","New York","1989","Hunting",757897
+"NC","North Carolina","1989","Hunting",335557
+"ND","North Dakota","1989","Hunting",86795
+"OH","Ohio","1989","Hunting",497766
+"OK","Oklahoma","1989","Hunting",252085
+"OR","Oregon","1989","Hunting",348694
+"PA","Pennsylvania","1989","Hunting",1174424
+"RI","Rhode Island","1989","Hunting",13372
+"SC","South Carolina","1989","Hunting",196764
+"SD","South Dakota","1989","Hunting",149713
+"TN","Tennessee","1989","Hunting",598616
+"TX","Texas","1989","Hunting",1189077
+"UT","Utah","1989","Hunting",231125
+"VT","Vermont","1989","Hunting",113554
+"VA","Virginia","1989","Hunting",412013
+"WA","Washington","1989","Hunting",259176
+"WV","West Virginia","1989","Hunting",306463
+"WI","Wisconsin","1989","Hunting",729668
+"WY","Wyoming","1989","Hunting",145948
+"AL","Alabama","1988","Hunting",282805
+"AK","Alaska","1988","Hunting",85232
+"AZ","Arizona","1988","Hunting",183595
+"AR","Arkansas","1988","Hunting",294765
+"CA","California","1988","Hunting",463543
+"CO","Colorado","1988","Hunting",325761
+"CT","Connecticut","1988","Hunting",87433
+"DE","Delaware","1988","Hunting",25767
+"FL","Florida","1988","Hunting",238581
+"GA","Georgia","1988","Hunting",411791
+"HI","Hawaii","1988","Hunting",13001
+"ID","Idaho","1988","Hunting",227689
+"IL","Illinois","1988","Hunting",328369
+"IN","Indiana","1988","Hunting",298165
+"IA","Iowa","1988","Hunting",260998
+"KS","Kansas","1988","Hunting",208947
+"KY","Kentucky","1988","Hunting",322064
+"LA","Louisiana","1988","Hunting",311959
+"ME","Maine","1988","Hunting",205467
+"MD","Maryland","1988","Hunting",177213
+"MA","Massachusetts","1988","Hunting",125703
+"MI","Michigan","1988","Hunting",913194
+"MN","Minnesota","1988","Hunting",517442
+"MS","Mississippi","1988","Hunting",299109
+"MO","Missouri","1988","Hunting",541105
+"MT","Montana","1988","Hunting",261780
+"NE","Nebraska","1988","Hunting",165963
+"NV","Nevada","1988","Hunting",60971
+"NH","New Hampshire","1988","Hunting",97005
+"NJ","New Jersey","1988","Hunting",130114
+"NM","New Mexico","1988","Hunting",145024
+"NY","New York","1988","Hunting",763272
+"NC","North Carolina","1988","Hunting",338238
+"ND","North Dakota","1988","Hunting",101379
+"OH","Ohio","1988","Hunting",462316
+"OK","Oklahoma","1988","Hunting",253319
+"OR","Oregon","1988","Hunting",346914
+"PA","Pennsylvania","1988","Hunting",1180175
+"RI","Rhode Island","1988","Hunting",13318
+"SC","South Carolina","1988","Hunting",185807
+"SD","South Dakota","1988","Hunting",161727
+"TN","Tennessee","1988","Hunting",582038
+"TX","Texas","1988","Hunting",1202781
+"UT","Utah","1988","Hunting",236710
+"VT","Vermont","1988","Hunting",113320
+"VA","Virginia","1988","Hunting",517008
+"WA","Washington","1988","Hunting",264535
+"WV","West Virginia","1988","Hunting",306486
+"WI","Wisconsin","1988","Hunting",737306
+"WY","Wyoming","1988","Hunting",141318
+"AL","Alabama","1987","Hunting",293436
+"AK","Alaska","1987","Hunting",84717
+"AZ","Arizona","1987","Hunting",188211
+"AR","Arkansas","1987","Hunting",320410
+"CA","California","1987","Hunting",463074
+"CO","Colorado","1987","Hunting",315434
+"CT","Connecticut","1987","Hunting",85663
+"DE","Delaware","1987","Hunting",27698
+"FL","Florida","1987","Hunting",234954
+"GA","Georgia","1987","Hunting",414456
+"HI","Hawaii","1987","Hunting",12061
+"ID","Idaho","1987","Hunting",247635
+"IL","Illinois","1987","Hunting",320682
+"IN","Indiana","1987","Hunting",291876
+"IA","Iowa","1987","Hunting",243279
+"KS","Kansas","1987","Hunting",210068
+"KY","Kentucky","1987","Hunting",323418
+"LA","Louisiana","1987","Hunting",326377
+"ME","Maine","1987","Hunting",203376
+"MD","Maryland","1987","Hunting",176125
+"MA","Massachusetts","1987","Hunting",96695
+"MI","Michigan","1987","Hunting",926328
+"MN","Minnesota","1987","Hunting",507247
+"MS","Mississippi","1987","Hunting",294808
+"MO","Missouri","1987","Hunting",496718
+"MT","Montana","1987","Hunting",262802
+"NE","Nebraska","1987","Hunting",157071
+"NV","Nevada","1987","Hunting",59737
+"NH","New Hampshire","1987","Hunting",94957
+"NJ","New Jersey","1987","Hunting",131937
+"NM","New Mexico","1987","Hunting",148686
+"NY","New York","1987","Hunting",773283
+"NC","North Carolina","1987","Hunting",327542
+"ND","North Dakota","1987","Hunting",101591
+"OH","Ohio","1987","Hunting",461820
+"OK","Oklahoma","1987","Hunting",254920
+"OR","Oregon","1987","Hunting",350402
+"PA","Pennsylvania","1987","Hunting",1173841
+"RI","Rhode Island","1987","Hunting",13245
+"SC","South Carolina","1987","Hunting",177268
+"SD","South Dakota","1987","Hunting",145541
+"TN","Tennessee","1987","Hunting",603846
+"TX","Texas","1987","Hunting",1190075
+"UT","Utah","1987","Hunting",224096
+"VT","Vermont","1987","Hunting",109877
+"VA","Virginia","1987","Hunting",477188
+"WA","Washington","1987","Hunting",267713
+"WV","West Virginia","1987","Hunting",317404
+"WI","Wisconsin","1987","Hunting",737019
+"WY","Wyoming","1987","Hunting",145921
+"AL","Alabama","1986","Hunting",280362
+"AK","Alaska","1986","Hunting",103322
+"AZ","Arizona","1986","Hunting",197630
+"AR","Arkansas","1986","Hunting",300257
+"CA","California","1986","Hunting",488316
+"CO","Colorado","1986","Hunting",304498
+"CT","Connecticut","1986","Hunting",86819
+"DE","Delaware","1986","Hunting",25666
+"FL","Florida","1986","Hunting",248542
+"GA","Georgia","1986","Hunting",397145
+"HI","Hawaii","1986","Hunting",12331
+"ID","Idaho","1986","Hunting",238288
+"IL","Illinois","1986","Hunting",314891
+"IN","Indiana","1986","Hunting",282571
+"IA","Iowa","1986","Hunting",235522
+"KS","Kansas","1986","Hunting",202714
+"KY","Kentucky","1986","Hunting",308069
+"LA","Louisiana","1986","Hunting",369216
+"ME","Maine","1986","Hunting",206464
+"MD","Maryland","1986","Hunting",175488
+"MA","Massachusetts","1986","Hunting",110457
+"MI","Michigan","1986","Hunting",925332
+"MN","Minnesota","1986","Hunting",499200
+"MS","Mississippi","1986","Hunting",291920
+"MO","Missouri","1986","Hunting",507557
+"MT","Montana","1986","Hunting",250376
+"NE","Nebraska","1986","Hunting",153116
+"NV","Nevada","1986","Hunting",59055
+"NH","New Hampshire","1986","Hunting",95669
+"NJ","New Jersey","1986","Hunting",131905
+"NM","New Mexico","1986","Hunting",151907
+"NY","New York","1986","Hunting",789203
+"NC","North Carolina","1986","Hunting",329633
+"ND","North Dakota","1986","Hunting",97585
+"OH","Ohio","1986","Hunting",466390
+"OK","Oklahoma","1986","Hunting",232630
+"OR","Oregon","1986","Hunting",355729
+"PA","Pennsylvania","1986","Hunting",1167837
+"RI","Rhode Island","1986","Hunting",13956
+"SC","South Carolina","1986","Hunting",201899
+"SD","South Dakota","1986","Hunting",167819
+"TN","Tennessee","1986","Hunting",584273
+"TX","Texas","1986","Hunting",1130630
+"UT","Utah","1986","Hunting",217881
+"VT","Vermont","1986","Hunting",117705
+"VA","Virginia","1986","Hunting",459582
+"WA","Washington","1986","Hunting",271016
+"WV","West Virginia","1986","Hunting",311696
+"WI","Wisconsin","1986","Hunting",734984
+"WY","Wyoming","1986","Hunting",168137
+"AL","Alabama","1985","Hunting",283389
+"AK","Alaska","1985","Hunting",90957
+"AZ","Arizona","1985","Hunting",196301
+"AR","Arkansas","1985","Hunting",295745
+"CA","California","1985","Hunting",493677
+"CO","Colorado","1985","Hunting",310898
+"CT","Connecticut","1985","Hunting",85205
+"DE","Delaware","1985","Hunting",27997
+"FL","Florida","1985","Hunting",257467
+"GA","Georgia","1985","Hunting",386095
+"HI","Hawaii","1985","Hunting",11425
+"ID","Idaho","1985","Hunting",249974
+"IL","Illinois","1985","Hunting",325142
+"IN","Indiana","1985","Hunting",305100
+"IA","Iowa","1985","Hunting",243852
+"KS","Kansas","1985","Hunting",199646
+"KY","Kentucky","1985","Hunting",305956
+"LA","Louisiana","1985","Hunting",396490
+"ME","Maine","1985","Hunting",210078
+"MD","Maryland","1985","Hunting",171214
+"MA","Massachusetts","1985","Hunting",113769
+"MI","Michigan","1985","Hunting",900266
+"MN","Minnesota","1985","Hunting",450556
+"MS","Mississippi","1985","Hunting",295800
+"MO","Missouri","1985","Hunting",477458
+"MT","Montana","1985","Hunting",254255
+"NE","Nebraska","1985","Hunting",146709
+"NV","Nevada","1985","Hunting",56214
+"NH","New Hampshire","1985","Hunting",89990
+"NJ","New Jersey","1985","Hunting",132978
+"NM","New Mexico","1985","Hunting",143656
+"NY","New York","1985","Hunting",803112
+"NC","North Carolina","1985","Hunting",334169
+"ND","North Dakota","1985","Hunting",95818
+"OH","Ohio","1985","Hunting",472426
+"OK","Oklahoma","1985","Hunting",269008
+"OR","Oregon","1985","Hunting",353554
+"PA","Pennsylvania","1985","Hunting",1222108
+"RI","Rhode Island","1985","Hunting",13310
+"SC","South Carolina","1985","Hunting",201602
+"SD","South Dakota","1985","Hunting",164347
+"TN","Tennessee","1985","Hunting",592693
+"TX","Texas","1985","Hunting",1100550
+"UT","Utah","1985","Hunting",230075
+"VT","Vermont","1985","Hunting",143441
+"VA","Virginia","1985","Hunting",457990
+"WA","Washington","1985","Hunting",298193
+"WV","West Virginia","1985","Hunting",319659
+"WI","Wisconsin","1985","Hunting",722498
+"WY","Wyoming","1985","Hunting",176760
+"AL","Alabama","1984","Hunting",286198
+"AK","Alaska","1984","Hunting",92481
+"AZ","Arizona","1984","Hunting",194548
+"AR","Arkansas","1984","Hunting",300241
+"CA","California","1984","Hunting",509106
+"CO","Colorado","1984","Hunting",310378
+"CT","Connecticut","1984","Hunting",80797
+"DE","Delaware","1984","Hunting",27160
+"FL","Florida","1984","Hunting",254802
+"GA","Georgia","1984","Hunting",371203
+"HI","Hawaii","1984","Hunting",11548
+"ID","Idaho","1984","Hunting",406705
+"IL","Illinois","1984","Hunting",332877
+"IN","Indiana","1984","Hunting",320894
+"IA","Iowa","1984","Hunting",267399
+"KS","Kansas","1984","Hunting",248880
+"KY","Kentucky","1984","Hunting",307621
+"LA","Louisiana","1984","Hunting",392263
+"ME","Maine","1984","Hunting",219226
+"MD","Maryland","1984","Hunting",171383
+"MA","Massachusetts","1984","Hunting",108740
+"MI","Michigan","1984","Hunting",912119
+"MN","Minnesota","1984","Hunting",463329
+"MS","Mississippi","1984","Hunting",293906
+"MO","Missouri","1984","Hunting",483836
+"MT","Montana","1984","Hunting",248427
+"NE","Nebraska","1984","Hunting",173634
+"NV","Nevada","1984","Hunting",57109
+"NH","New Hampshire","1984","Hunting",85144
+"NJ","New Jersey","1984","Hunting",135649
+"NM","New Mexico","1984","Hunting",137621
+"NY","New York","1984","Hunting",807542
+"NC","North Carolina","1984","Hunting",410523
+"ND","North Dakota","1984","Hunting",95121
+"OH","Ohio","1984","Hunting",464782
+"OK","Oklahoma","1984","Hunting",377331
+"OR","Oregon","1984","Hunting",356925
+"PA","Pennsylvania","1984","Hunting",1271634
+"RI","Rhode Island","1984","Hunting",12935
+"SC","South Carolina","1984","Hunting",200371
+"SD","South Dakota","1984","Hunting",174542
+"TN","Tennessee","1984","Hunting",551890
+"TX","Texas","1984","Hunting",986707
+"UT","Utah","1984","Hunting",232545
+"VT","Vermont","1984","Hunting",133989
+"VA","Virginia","1984","Hunting",457159
+"WA","Washington","1984","Hunting",307704
+"WV","West Virginia","1984","Hunting",328432
+"WI","Wisconsin","1984","Hunting",710986
+"WY","Wyoming","1984","Hunting",171336
+"AL","Alabama","1983","Hunting",288427
+"AK","Alaska","1983","Hunting",90094
+"AZ","Arizona","1983","Hunting",186977
+"AR","Arkansas","1983","Hunting",337345
+"CA","California","1983","Hunting",523390
+"CO","Colorado","1983","Hunting",358823
+"CT","Connecticut","1983","Hunting",82085
+"DE","Delaware","1983","Hunting",27247
+"FL","Florida","1983","Hunting",257739
+"GA","Georgia","1983","Hunting",370655
+"HI","Hawaii","1983","Hunting",11443
+"ID","Idaho","1983","Hunting",249928
+"IL","Illinois","1983","Hunting",329240
+"IN","Indiana","1983","Hunting",338994
+"IA","Iowa","1983","Hunting",276216
+"KS","Kansas","1983","Hunting",254599
+"KY","Kentucky","1983","Hunting",314773
+"LA","Louisiana","1983","Hunting",413332
+"ME","Maine","1983","Hunting",241733
+"MD","Maryland","1983","Hunting",174318
+"MA","Massachusetts","1983","Hunting",117800
+"MI","Michigan","1983","Hunting",890519
+"MN","Minnesota","1983","Hunting",484148
+"MS","Mississippi","1983","Hunting",303572
+"MO","Missouri","1983","Hunting",482367
+"MT","Montana","1983","Hunting",236487
+"NE","Nebraska","1983","Hunting",173926
+"NV","Nevada","1983","Hunting",55063
+"NH","New Hampshire","1983","Hunting",82740
+"NJ","New Jersey","1983","Hunting",131086
+"NM","New Mexico","1983","Hunting",149466
+"NY","New York","1983","Hunting",791568
+"NC","North Carolina","1983","Hunting",351030
+"ND","North Dakota","1983","Hunting",96232
+"OH","Ohio","1983","Hunting",491935
+"OK","Oklahoma","1983","Hunting",312721
+"OR","Oregon","1983","Hunting",378254
+"PA","Pennsylvania","1983","Hunting",1313191
+"RI","Rhode Island","1983","Hunting",12810
+"SC","South Carolina","1983","Hunting",207648
+"SD","South Dakota","1983","Hunting",167703
+"TN","Tennessee","1983","Hunting",541617
+"TX","Texas","1983","Hunting",1050496
+"UT","Utah","1983","Hunting",251808
+"VT","Vermont","1983","Hunting",117261
+"VA","Virginia","1983","Hunting",462009
+"WA","Washington","1983","Hunting",311155
+"WV","West Virginia","1983","Hunting",336676
+"WI","Wisconsin","1983","Hunting",756761
+"WY","Wyoming","1983","Hunting",187497
+"AL","Alabama","1982","Hunting",302234
+"AK","Alaska","1982","Hunting",84383
+"AZ","Arizona","1982","Hunting",187262
+"AR","Arkansas","1982","Hunting",348722
+"CA","California","1982","Hunting",539557
+"CO","Colorado","1982","Hunting",350689
+"CT","Connecticut","1982","Hunting",86798
+"DE","Delaware","1982","Hunting",27261
+"FL","Florida","1982","Hunting",262747
+"GA","Georgia","1982","Hunting",368880
+"HI","Hawaii","1982","Hunting",11459
+"ID","Idaho","1982","Hunting",249527
+"IL","Illinois","1982","Hunting",351225
+"IN","Indiana","1982","Hunting",356538
+"IA","Iowa","1982","Hunting",304474
+"KS","Kansas","1982","Hunting",242982
+"KY","Kentucky","1982","Hunting",315531
+"LA","Louisiana","1982","Hunting",402096
+"ME","Maine","1982","Hunting",232980
+"MD","Maryland","1982","Hunting",172738
+"MA","Massachusetts","1982","Hunting",115676
+"MI","Michigan","1982","Hunting",1150160
+"MN","Minnesota","1982","Hunting",542927
+"MS","Mississippi","1982","Hunting",288973
+"MO","Missouri","1982","Hunting",474108
+"MT","Montana","1982","Hunting",223065
+"NE","Nebraska","1982","Hunting",187653
+"NV","Nevada","1982","Hunting",74827
+"NH","New Hampshire","1982","Hunting",88400
+"NJ","New Jersey","1982","Hunting",135127
+"NM","New Mexico","1982","Hunting",153251
+"NY","New York","1982","Hunting",784183
+"NC","North Carolina","1982","Hunting",338435
+"ND","North Dakota","1982","Hunting",94884
+"OH","Ohio","1982","Hunting",475010
+"OK","Oklahoma","1982","Hunting",291783
+"OR","Oregon","1982","Hunting",405951
+"PA","Pennsylvania","1982","Hunting",1312403
+"RI","Rhode Island","1982","Hunting",13286
+"SC","South Carolina","1982","Hunting",204206
+"SD","South Dakota","1982","Hunting",168873
+"TN","Tennessee","1982","Hunting",573842
+"TX","Texas","1982","Hunting",1011549
+"UT","Utah","1982","Hunting",246336
+"VT","Vermont","1982","Hunting",138965
+"VA","Virginia","1982","Hunting",451082
+"WA","Washington","1982","Hunting",338993
+"WV","West Virginia","1982","Hunting",331182
+"WI","Wisconsin","1982","Hunting",756005
+"WY","Wyoming","1982","Hunting",179323
+"AL","Alabama","1981","Hunting",310328
+"AK","Alaska","1981","Hunting",75928
+"AZ","Arizona","1981","Hunting",198717
+"AR","Arkansas","1981","Hunting",346830
+"CA","California","1981","Hunting",554144
+"CO","Colorado","1981","Hunting",338367
+"CT","Connecticut","1981","Hunting",83778
+"DE","Delaware","1981","Hunting",26411
+"FL","Florida","1981","Hunting",260556
+"GA","Georgia","1981","Hunting",393320
+"HI","Hawaii","1981","Hunting",11841
+"ID","Idaho","1981","Hunting",261771
+"IL","Illinois","1981","Hunting",334512
+"IN","Indiana","1981","Hunting",338060
+"IA","Iowa","1981","Hunting",305080
+"KS","Kansas","1981","Hunting",240024
+"KY","Kentucky","1981","Hunting",311493
+"LA","Louisiana","1981","Hunting",397755
+"ME","Maine","1981","Hunting",226397
+"MD","Maryland","1981","Hunting",169405
+"MA","Massachusetts","1981","Hunting",118131
+"MI","Michigan","1981","Hunting",1135265
+"MN","Minnesota","1981","Hunting",525455
+"MS","Mississippi","1981","Hunting",294241
+"MO","Missouri","1981","Hunting",474334
+"MT","Montana","1981","Hunting",218753
+"NE","Nebraska","1981","Hunting",184005
+"NV","Nevada","1981","Hunting",54017
+"NH","New Hampshire","1981","Hunting",90127
+"NJ","New Jersey","1981","Hunting",144676
+"NM","New Mexico","1981","Hunting",148377
+"NY","New York","1981","Hunting",769267
+"NC","North Carolina","1981","Hunting",345118
+"ND","North Dakota","1981","Hunting",98209
+"OH","Ohio","1981","Hunting",478892
+"OK","Oklahoma","1981","Hunting",316352
+"OR","Oregon","1981","Hunting",415174
+"PA","Pennsylvania","1981","Hunting",1301331
+"RI","Rhode Island","1981","Hunting",13192
+"SC","South Carolina","1981","Hunting",219071
+"SD","South Dakota","1981","Hunting",161524
+"TN","Tennessee","1981","Hunting",575818
+"TX","Texas","1981","Hunting",963719
+"UT","Utah","1981","Hunting",239459
+"VT","Vermont","1981","Hunting",129277
+"VA","Virginia","1981","Hunting",445083
+"WA","Washington","1981","Hunting",369632
+"WV","West Virginia","1981","Hunting",321890
+"WI","Wisconsin","1981","Hunting",735853
+"WY","Wyoming","1981","Hunting",187909
+"AL","Alabama","1980","Hunting",297562
+"AK","Alaska","1980","Hunting",72192
+"AZ","Arizona","1980","Hunting",198676
+"AR","Arkansas","1980","Hunting",348336
+"CA","California","1980","Hunting",540393
+"CO","Colorado","1980","Hunting",312419
+"CT","Connecticut","1980","Hunting",83636
+"DE","Delaware","1980","Hunting",26921
+"FL","Florida","1980","Hunting",253619
+"GA","Georgia","1980","Hunting",384009
+"HI","Hawaii","1980","Hunting",11435
+"ID","Idaho","1980","Hunting",237989
+"IL","Illinois","1980","Hunting",353449
+"IN","Indiana","1980","Hunting",350392
+"IA","Iowa","1980","Hunting",292947
+"KS","Kansas","1980","Hunting",248411
+"KY","Kentucky","1980","Hunting",309728
+"LA","Louisiana","1980","Hunting",384223
+"ME","Maine","1980","Hunting",239353
+"MD","Maryland","1980","Hunting",169971
+"MA","Massachusetts","1980","Hunting",114631
+"MI","Michigan","1980","Hunting",957209
+"MN","Minnesota","1980","Hunting",496038
+"MS","Mississippi","1980","Hunting",288510
+"MO","Missouri","1980","Hunting",473936
+"MT","Montana","1980","Hunting",217410
+"NE","Nebraska","1980","Hunting",175101
+"NV","Nevada","1980","Hunting",52236
+"NH","New Hampshire","1980","Hunting",83536
+"NJ","New Jersey","1980","Hunting",175299
+"NM","New Mexico","1980","Hunting",144316
+"NY","New York","1980","Hunting",741376
+"NC","North Carolina","1980","Hunting",353090
+"ND","North Dakota","1980","Hunting",100091
+"OH","Ohio","1980","Hunting",488536
+"OK","Oklahoma","1980","Hunting",301134
+"OR","Oregon","1980","Hunting",394349
+"PA","Pennsylvania","1980","Hunting",1274763
+"RI","Rhode Island","1980","Hunting",13352
+"SC","South Carolina","1980","Hunting",222319
+"SD","South Dakota","1980","Hunting",142733
+"TN","Tennessee","1980","Hunting",515621
+"TX","Texas","1980","Hunting",939267
+"UT","Utah","1980","Hunting",287596
+"VT","Vermont","1980","Hunting",137386
+"VA","Virginia","1980","Hunting",469597
+"WA","Washington","1980","Hunting",360684
+"WV","West Virginia","1980","Hunting",314664
+"WI","Wisconsin","1980","Hunting",713152
+"WY","Wyoming","1980","Hunting",193481
+"AL","Alabama","1979","Hunting",344777
+"AK","Alaska","1979","Hunting",69397
+"AZ","Arizona","1979","Hunting",197877
+"AR","Arkansas","1979","Hunting",348281
+"CA","California","1979","Hunting",534796
+"CO","Colorado","1979","Hunting",305961
+"CT","Connecticut","1979","Hunting",81961
+"DE","Delaware","1979","Hunting",27793
+"FL","Florida","1979","Hunting",270484
+"GA","Georgia","1979","Hunting",376482
+"HI","Hawaii","1979","Hunting",11258
+"ID","Idaho","1979","Hunting",241765
+"IL","Illinois","1979","Hunting",408873
+"IN","Indiana","1979","Hunting",405459
+"IA","Iowa","1979","Hunting",336504
+"KS","Kansas","1979","Hunting",236015
+"KY","Kentucky","1979","Hunting",322050
+"LA","Louisiana","1979","Hunting",367704
+"ME","Maine","1979","Hunting",234418
+"MD","Maryland","1979","Hunting",171914
+"MA","Massachusetts","1979","Hunting",110931
+"MI","Michigan","1979","Hunting",960594
+"MN","Minnesota","1979","Hunting",619572
+"MS","Mississippi","1979","Hunting",289182
+"MO","Missouri","1979","Hunting",464466
+"MT","Montana","1979","Hunting",213677
+"NE","Nebraska","1979","Hunting",167505
+"NV","Nevada","1979","Hunting",49607
+"NH","New Hampshire","1979","Hunting",82705
+"NJ","New Jersey","1979","Hunting",173165
+"NM","New Mexico","1979","Hunting",133881
+"NY","New York","1979","Hunting",738329
+"NC","North Carolina","1979","Hunting",376718
+"ND","North Dakota","1979","Hunting",100989
+"OH","Ohio","1979","Hunting",571391
+"OK","Oklahoma","1979","Hunting",287348
+"OR","Oregon","1979","Hunting",402959
+"PA","Pennsylvania","1979","Hunting",1279814
+"RI","Rhode Island","1979","Hunting",14630
+"SC","South Carolina","1979","Hunting",228296
+"SD","South Dakota","1979","Hunting",139732
+"TN","Tennessee","1979","Hunting",509014
+"TX","Texas","1979","Hunting",879233
+"UT","Utah","1979","Hunting",250104
+"VT","Vermont","1979","Hunting",122180
+"VA","Virginia","1979","Hunting",455193
+"WA","Washington","1979","Hunting",358363
+"WV","West Virginia","1979","Hunting",310434
+"WI","Wisconsin","1979","Hunting",756256
+"WY","Wyoming","1979","Hunting",211849
+"AL","Alabama","1978","Hunting",342831
+"AK","Alaska","1978","Hunting",69124
+"AZ","Arizona","1978","Hunting",188936
+"AR","Arkansas","1978","Hunting",331649
+"CA","California","1978","Hunting",569422
+"CO","Colorado","1978","Hunting",315411
+"CT","Connecticut","1978","Hunting",81453
+"DE","Delaware","1978","Hunting",27854
+"FL","Florida","1978","Hunting",263136
+"GA","Georgia","1978","Hunting",373965
+"HI","Hawaii","1978","Hunting",11482
+"ID","Idaho","1978","Hunting",217415
+"IL","Illinois","1978","Hunting",422579
+"IN","Indiana","1978","Hunting",419761
+"IA","Iowa","1978","Hunting",344938
+"KS","Kansas","1978","Hunting",225680
+"KY","Kentucky","1978","Hunting",323777
+"LA","Louisiana","1978","Hunting",358811
+"ME","Maine","1978","Hunting",226612
+"MD","Maryland","1978","Hunting",181008
+"MA","Massachusetts","1978","Hunting",108570
+"MI","Michigan","1978","Hunting",953255
+"MN","Minnesota","1978","Hunting",482735
+"MS","Mississippi","1978","Hunting",311953
+"MO","Missouri","1978","Hunting",472128
+"MT","Montana","1978","Hunting",208341
+"NE","Nebraska","1978","Hunting",151132
+"NV","Nevada","1978","Hunting",44653
+"NH","New Hampshire","1978","Hunting",93032
+"NJ","New Jersey","1978","Hunting",178115
+"NM","New Mexico","1978","Hunting",115701
+"NY","New York","1978","Hunting",729361
+"NC","North Carolina","1978","Hunting",374573
+"ND","North Dakota","1978","Hunting",102178
+"OH","Ohio","1978","Hunting",558579
+"OK","Oklahoma","1978","Hunting",279141
+"OR","Oregon","1978","Hunting",372770
+"PA","Pennsylvania","1978","Hunting",1286248
+"RI","Rhode Island","1978","Hunting",14931
+"SC","South Carolina","1978","Hunting",218743
+"SD","South Dakota","1978","Hunting",127807
+"TN","Tennessee","1978","Hunting",483978
+"TX","Texas","1978","Hunting",867345
+"UT","Utah","1978","Hunting",227037
+"VT","Vermont","1978","Hunting",152682
+"VA","Virginia","1978","Hunting",449176
+"WA","Washington","1978","Hunting",344923
+"WV","West Virginia","1978","Hunting",316665
+"WI","Wisconsin","1978","Hunting",739126
+"WY","Wyoming","1978","Hunting",322607
+"AL","Alabama","1977","Hunting",336991
+"AK","Alaska","1977","Hunting",67878
+"AZ","Arizona","1977","Hunting",183470
+"AR","Arkansas","1977","Hunting",347966
+"CA","California","1977","Hunting",584957
+"CO","Colorado","1977","Hunting",298383
+"CT","Connecticut","1977","Hunting",82534
+"DE","Delaware","1977","Hunting",28563
+"FL","Florida","1977","Hunting",260566
+"GA","Georgia","1977","Hunting",361449
+"HI","Hawaii","1977","Hunting",12079
+"ID","Idaho","1977","Hunting",217954
+"IL","Illinois","1977","Hunting",486353
+"IN","Indiana","1977","Hunting",436680
+"IA","Iowa","1977","Hunting",369108
+"KS","Kansas","1977","Hunting",221252
+"KY","Kentucky","1977","Hunting",323041
+"LA","Louisiana","1977","Hunting",360142
+"ME","Maine","1977","Hunting",214827
+"MD","Maryland","1977","Hunting",193855
+"MA","Massachusetts","1977","Hunting",106125
+"MI","Michigan","1977","Hunting",921858
+"MN","Minnesota","1977","Hunting",369665
+"MS","Mississippi","1977","Hunting",339210
+"MO","Missouri","1977","Hunting",487695
+"MT","Montana","1977","Hunting",204298
+"NE","Nebraska","1977","Hunting",178625
+"NV","Nevada","1977","Hunting",48615
+"NH","New Hampshire","1977","Hunting",89126
+"NJ","New Jersey","1977","Hunting",168856
+"NM","New Mexico","1977","Hunting",149105
+"NY","New York","1977","Hunting",746171
+"NC","North Carolina","1977","Hunting",378417
+"ND","North Dakota","1977","Hunting",101413
+"OH","Ohio","1977","Hunting",594737
+"OK","Oklahoma","1977","Hunting",267430
+"OR","Oregon","1977","Hunting",328335
+"PA","Pennsylvania","1977","Hunting",1281177
+"RI","Rhode Island","1977","Hunting",15676
+"SC","South Carolina","1977","Hunting",215920
+"SD","South Dakota","1977","Hunting",127953
+"TN","Tennessee","1977","Hunting",483539
+"TX","Texas","1977","Hunting",845463
+"UT","Utah","1977","Hunting",234442
+"VT","Vermont","1977","Hunting",132789
+"VA","Virginia","1977","Hunting",443741
+"WA","Washington","1977","Hunting",330517
+"WV","West Virginia","1977","Hunting",308130
+"WI","Wisconsin","1977","Hunting",702351
+"WY","Wyoming","1977","Hunting",207588
+"AL","Alabama","1976","Hunting",332112
+"AK","Alaska","1976","Hunting",71047
+"AZ","Arizona","1976","Hunting",182070
+"AR","Arkansas","1976","Hunting",355381
+"CA","California","1976","Hunting",611564
+"CO","Colorado","1976","Hunting",317471
+"CT","Connecticut","1976","Hunting",86721
+"DE","Delaware","1976","Hunting",29129
+"FL","Florida","1976","Hunting",262617
+"GA","Georgia","1976","Hunting",364455
+"HI","Hawaii","1976","Hunting",12233
+"ID","Idaho","1976","Hunting",218462
+"IL","Illinois","1976","Hunting",516723
+"IN","Indiana","1976","Hunting",452880
+"IA","Iowa","1976","Hunting",354964
+"KS","Kansas","1976","Hunting",222052
+"KY","Kentucky","1976","Hunting",317941
+"LA","Louisiana","1976","Hunting",337139
+"ME","Maine","1976","Hunting",226559
+"MD","Maryland","1976","Hunting",183726
+"MA","Massachusetts","1976","Hunting",115913
+"MI","Michigan","1976","Hunting",945735
+"MN","Minnesota","1976","Hunting",449337
+"MS","Mississippi","1976","Hunting",330778
+"MO","Missouri","1976","Hunting",474802
+"MT","Montana","1976","Hunting",222878
+"NE","Nebraska","1976","Hunting",182212
+"NV","Nevada","1976","Hunting",59953
+"NH","New Hampshire","1976","Hunting",73062
+"NJ","New Jersey","1976","Hunting",186551
+"NM","New Mexico","1976","Hunting",134967
+"NY","New York","1976","Hunting",768686
+"NC","North Carolina","1976","Hunting",383755
+"ND","North Dakota","1976","Hunting",98174
+"OH","Ohio","1976","Hunting",584349
+"OK","Oklahoma","1976","Hunting",251194
+"OR","Oregon","1976","Hunting",326469
+"PA","Pennsylvania","1976","Hunting",1281323
+"RI","Rhode Island","1976","Hunting",16235
+"SC","South Carolina","1976","Hunting",211855
+"SD","South Dakota","1976","Hunting",148176
+"TN","Tennessee","1976","Hunting",483867
+"TX","Texas","1976","Hunting",855729
+"UT","Utah","1976","Hunting",230322
+"VT","Vermont","1976","Hunting",131512
+"VA","Virginia","1976","Hunting",416332
+"WA","Washington","1976","Hunting",322649
+"WV","West Virginia","1976","Hunting",301319
+"WI","Wisconsin","1976","Hunting",707287
+"WY","Wyoming","1976","Hunting",163090
+"AL","Alabama","1975","Hunting",336132
+"AK","Alaska","1975","Hunting",67406
+"AZ","Arizona","1975","Hunting",176992
+"AR","Arkansas","1975","Hunting",351876
+"CA","California","1975","Hunting",660135
+"CO","Colorado","1975","Hunting",301166
+"CT","Connecticut","1975","Hunting",89599
+"DE","Delaware","1975","Hunting",29994
+"FL","Florida","1975","Hunting",280634
+"GA","Georgia","1975","Hunting",364392
+"HI","Hawaii","1975","Hunting",11950
+"ID","Idaho","1975","Hunting",213002
+"IL","Illinois","1975","Hunting",463296
+"IN","Indiana","1975","Hunting",472364
+"IA","Iowa","1975","Hunting",366977
+"KS","Kansas","1975","Hunting",233770
+"KY","Kentucky","1975","Hunting",309177
+"LA","Louisiana","1975","Hunting",336380
+"ME","Maine","1975","Hunting",217663
+"MD","Maryland","1975","Hunting",194448
+"MA","Massachusetts","1975","Hunting",111945
+"MI","Michigan","1975","Hunting",955588
+"MN","Minnesota","1975","Hunting",453078
+"MS","Mississippi","1975","Hunting",332417
+"MO","Missouri","1975","Hunting",469496
+"MT","Montana","1975","Hunting",220876
+"NE","Nebraska","1975","Hunting",204925
+"NV","Nevada","1975","Hunting",66631
+"NH","New Hampshire","1975","Hunting",83147
+"NJ","New Jersey","1975","Hunting",199230
+"NM","New Mexico","1975","Hunting",147795
+"NY","New York","1975","Hunting",775994
+"NC","North Carolina","1975","Hunting",422280
+"ND","North Dakota","1975","Hunting",106709
+"OH","Ohio","1975","Hunting",596973
+"OK","Oklahoma","1975","Hunting",269729
+"OR","Oregon","1975","Hunting",355394
+"PA","Pennsylvania","1975","Hunting",1245740
+"RI","Rhode Island","1975","Hunting",17336
+"SC","South Carolina","1975","Hunting",212559
+"SD","South Dakota","1975","Hunting",176850
+"TN","Tennessee","1975","Hunting",519783
+"TX","Texas","1975","Hunting",853250
+"UT","Utah","1975","Hunting",233247
+"VT","Vermont","1975","Hunting",141766
+"VA","Virginia","1975","Hunting",429713
+"WA","Washington","1975","Hunting",346197
+"WV","West Virginia","1975","Hunting",288521
+"WI","Wisconsin","1975","Hunting",727012
+"WY","Wyoming","1975","Hunting",156971
+"AL","Alabama","1974","Hunting",332391
+"AK","Alaska","1974","Hunting",68136
+"AZ","Arizona","1974","Hunting",167517
+"AR","Arkansas","1974","Hunting",347015
+"CA","California","1974","Hunting",677993
+"CO","Colorado","1974","Hunting",323922
+"CT","Connecticut","1974","Hunting",84008
+"DE","Delaware","1974","Hunting",28554
+"FL","Florida","1974","Hunting",270571
+"GA","Georgia","1974","Hunting",357495
+"HI","Hawaii","1974","Hunting",11250
+"ID","Idaho","1974","Hunting",250771
+"IL","Illinois","1974","Hunting",493792
+"IN","Indiana","1974","Hunting",472988
+"IA","Iowa","1974","Hunting",341459
+"KS","Kansas","1974","Hunting",234418
+"KY","Kentucky","1974","Hunting",295453
+"LA","Louisiana","1974","Hunting",352832
+"ME","Maine","1974","Hunting",205930
+"MD","Maryland","1974","Hunting",190321
+"MA","Massachusetts","1974","Hunting",113709
+"MI","Michigan","1974","Hunting",876800
+"MN","Minnesota","1974","Hunting",426228
+"MS","Mississippi","1974","Hunting",321950
+"MO","Missouri","1974","Hunting",483186
+"MT","Montana","1974","Hunting",226510
+"NE","Nebraska","1974","Hunting",200444
+"NV","Nevada","1974","Hunting",68831
+"NH","New Hampshire","1974","Hunting",77193
+"NJ","New Jersey","1974","Hunting",184249
+"NM","New Mexico","1974","Hunting",149846
+"NY","New York","1974","Hunting",740143
+"NC","North Carolina","1974","Hunting",436056
+"ND","North Dakota","1974","Hunting",102087
+"OH","Ohio","1974","Hunting",601592
+"OK","Oklahoma","1974","Hunting",266698
+"OR","Oregon","1974","Hunting",369488
+"PA","Pennsylvania","1974","Hunting",1186499
+"RI","Rhode Island","1974","Hunting",19177
+"SC","South Carolina","1974","Hunting",202599
+"SD","South Dakota","1974","Hunting",190990
+"TN","Tennessee","1974","Hunting",519485
+"TX","Texas","1974","Hunting",841701
+"UT","Utah","1974","Hunting",261884
+"VT","Vermont","1974","Hunting",159378
+"VA","Virginia","1974","Hunting",478961
+"WA","Washington","1974","Hunting",330371
+"WV","West Virginia","1974","Hunting",275918
+"WI","Wisconsin","1974","Hunting",650028
+"WY","Wyoming","1974","Hunting",151432
+"AL","Alabama","1973","Hunting",320608
+"AK","Alaska","1973","Hunting",68268
+"AZ","Arizona","1973","Hunting",146407
+"AR","Arkansas","1973","Hunting",326192
+"CA","California","1973","Hunting",641319
+"CO","Colorado","1973","Hunting",263687
+"CT","Connecticut","1973","Hunting",77810
+"DE","Delaware","1973","Hunting",27235
+"FL","Florida","1973","Hunting",249829
+"GA","Georgia","1973","Hunting",334909
+"HI","Hawaii","1973","Hunting",12412
+"ID","Idaho","1973","Hunting",233347
+"IL","Illinois","1973","Hunting",478956
+"IN","Indiana","1973","Hunting",444303
+"IA","Iowa","1973","Hunting",319844
+"KS","Kansas","1973","Hunting",230470
+"KY","Kentucky","1973","Hunting",276089
+"LA","Louisiana","1973","Hunting",335127
+"ME","Maine","1973","Hunting",194336
+"MD","Maryland","1973","Hunting",186117
+"MA","Massachusetts","1973","Hunting",107389
+"MI","Michigan","1973","Hunting",753808
+"MN","Minnesota","1973","Hunting",419592
+"MS","Mississippi","1973","Hunting",322036
+"MO","Missouri","1973","Hunting",484155
+"MT","Montana","1973","Hunting",208528
+"NE","Nebraska","1973","Hunting",198223
+"NV","Nevada","1973","Hunting",68667
+"NH","New Hampshire","1973","Hunting",87994
+"NJ","New Jersey","1973","Hunting",187249
+"NM","New Mexico","1973","Hunting",141114
+"NY","New York","1973","Hunting",652468
+"NC","North Carolina","1973","Hunting",421531
+"ND","North Dakota","1973","Hunting",100591
+"OH","Ohio","1973","Hunting",551113
+"OK","Oklahoma","1973","Hunting",248805
+"OR","Oregon","1973","Hunting",355094
+"PA","Pennsylvania","1973","Hunting",1141385
+"RI","Rhode Island","1973","Hunting",15682
+"SC","South Carolina","1973","Hunting",189617
+"SD","South Dakota","1973","Hunting",170696
+"TN","Tennessee","1973","Hunting",483434
+"TX","Texas","1973","Hunting",822968
+"UT","Utah","1973","Hunting",254134
+"VT","Vermont","1973","Hunting",143949
+"VA","Virginia","1973","Hunting",453521
+"WA","Washington","1973","Hunting",311881
+"WV","West Virginia","1973","Hunting",256051
+"WI","Wisconsin","1973","Hunting",633831
+"WY","Wyoming","1973","Hunting",156543
+"AL","Alabama","1972","Hunting",301228
+"AK","Alaska","1972","Hunting",64056
+"AZ","Arizona","1972","Hunting",155129
+"AR","Arkansas","1972","Hunting",305262
+"CA","California","1972","Hunting",699748
+"CO","Colorado","1972","Hunting",259454
+"CT","Connecticut","1972","Hunting",83723
+"DE","Delaware","1972","Hunting",25000
+"FL","Florida","1972","Hunting",255961
+"GA","Georgia","1972","Hunting",307099
+"HI","Hawaii","1972","Hunting",10934
+"ID","Idaho","1972","Hunting",222611
+"IL","Illinois","1972","Hunting",480190
+"IN","Indiana","1972","Hunting",460084
+"IA","Iowa","1972","Hunting",359373
+"KS","Kansas","1972","Hunting",232313
+"KY","Kentucky","1972","Hunting",268743
+"LA","Louisiana","1972","Hunting",337609
+"ME","Maine","1972","Hunting",195622
+"MD","Maryland","1972","Hunting",192213
+"MA","Massachusetts","1972","Hunting",120944
+"MI","Michigan","1972","Hunting",785752
+"MN","Minnesota","1972","Hunting",326776
+"MS","Mississippi","1972","Hunting",303409
+"MO","Missouri","1972","Hunting",455655
+"MT","Montana","1972","Hunting",199648
+"NE","Nebraska","1972","Hunting",203108
+"NV","Nevada","1972","Hunting",65660
+"NH","New Hampshire","1972","Hunting",87443
+"NJ","New Jersey","1972","Hunting",208843
+"NM","New Mexico","1972","Hunting",123827
+"NY","New York","1972","Hunting",662558
+"NC","North Carolina","1972","Hunting",396011
+"ND","North Dakota","1972","Hunting",97776
+"OH","Ohio","1972","Hunting",597793
+"OK","Oklahoma","1972","Hunting",224834
+"OR","Oregon","1972","Hunting",348383
+"PA","Pennsylvania","1972","Hunting",1122399
+"RI","Rhode Island","1972","Hunting",18037
+"SC","South Carolina","1972","Hunting",177657
+"SD","South Dakota","1972","Hunting",165651
+"TN","Tennessee","1972","Hunting",455305
+"TX","Texas","1972","Hunting",783103
+"UT","Utah","1972","Hunting",230582
+"VT","Vermont","1972","Hunting",128843
+"VA","Virginia","1972","Hunting",436615
+"WA","Washington","1972","Hunting",299841
+"WV","West Virginia","1972","Hunting",259832
+"WI","Wisconsin","1972","Hunting",632944
+"WY","Wyoming","1972","Hunting",162662
+"AL","Alabama","1971","Hunting",335075
+"AK","Alaska","1971","Hunting",68664
+"AZ","Arizona","1971","Hunting",177411
+"AR","Arkansas","1971","Hunting",297101
+"CA","California","1971","Hunting",756975
+"CO","Colorado","1971","Hunting",300311
+"CT","Connecticut","1971","Hunting",85452
+"DE","Delaware","1971","Hunting",26824
+"FL","Florida","1971","Hunting",255049
+"GA","Georgia","1971","Hunting",326637
+"HI","Hawaii","1971","Hunting",9976
+"ID","Idaho","1971","Hunting",220990
+"IL","Illinois","1971","Hunting",455931
+"IN","Indiana","1971","Hunting",476640
+"IA","Iowa","1971","Hunting",344902
+"KS","Kansas","1971","Hunting",232677
+"KY","Kentucky","1971","Hunting",271764
+"LA","Louisiana","1971","Hunting",348635
+"ME","Maine","1971","Hunting",219373
+"MD","Maryland","1971","Hunting",193336
+"MA","Massachusetts","1971","Hunting",119376
+"MI","Michigan","1971","Hunting",941426
+"MN","Minnesota","1971","Hunting",377384
+"MS","Mississippi","1971","Hunting",293329
+"MO","Missouri","1971","Hunting",505414
+"MT","Montana","1971","Hunting",185594
+"NE","Nebraska","1971","Hunting",194952
+"NV","Nevada","1971","Hunting",64276
+"NH","New Hampshire","1971","Hunting",97360
+"NJ","New Jersey","1971","Hunting",196533
+"NM","New Mexico","1971","Hunting",118030
+"NY","New York","1971","Hunting",756060
+"NC","North Carolina","1971","Hunting",408935
+"ND","North Dakota","1971","Hunting",88800
+"OH","Ohio","1971","Hunting",565896
+"OK","Oklahoma","1971","Hunting",271036
+"OR","Oregon","1971","Hunting",352033
+"PA","Pennsylvania","1971","Hunting",1166634
+"RI","Rhode Island","1971","Hunting",18544
+"SC","South Carolina","1971","Hunting",193938
+"SD","South Dakota","1971","Hunting",151337
+"TN","Tennessee","1971","Hunting",441402
+"TX","Texas","1971","Hunting",795446
+"UT","Utah","1971","Hunting",240367
+"VT","Vermont","1971","Hunting",148282
+"VA","Virginia","1971","Hunting",421752
+"WA","Washington","1971","Hunting",334786
+"WV","West Virginia","1971","Hunting",258279
+"WI","Wisconsin","1971","Hunting",634992
+"WY","Wyoming","1971","Hunting",227411
+"AL","Alabama","1970","Hunting",355169
+"AK","Alaska","1970","Hunting",61993
+"AZ","Arizona","1970","Hunting",169679
+"AR","Arkansas","1970","Hunting",283295
+"CA","California","1970","Hunting",767149
+"CO","Colorado","1970","Hunting",272059
+"CT","Connecticut","1970","Hunting",77488
+"DE","Delaware","1970","Hunting",26271
+"FL","Florida","1970","Hunting",245900
+"GA","Georgia","1970","Hunting",326528
+"HI","Hawaii","1970","Hunting",9424
+"ID","Idaho","1970","Hunting",225845
+"IL","Illinois","1970","Hunting",438088
+"IN","Indiana","1970","Hunting",468886
+"IA","Iowa","1970","Hunting",320928
+"KS","Kansas","1970","Hunting",229103
+"KY","Kentucky","1970","Hunting",258987
+"LA","Louisiana","1970","Hunting",337641
+"ME","Maine","1970","Hunting",202766
+"MD","Maryland","1970","Hunting",186277
+"MA","Massachusetts","1970","Hunting",118518
+"MI","Michigan","1970","Hunting",941025
+"MN","Minnesota","1970","Hunting",356607
+"MS","Mississippi","1970","Hunting",280029
+"MO","Missouri","1970","Hunting",451625
+"MT","Montana","1970","Hunting",174014
+"NE","Nebraska","1970","Hunting",179542
+"NV","Nevada","1970","Hunting",62988
+"NH","New Hampshire","1970","Hunting",98887
+"NJ","New Jersey","1970","Hunting",184527
+"NM","New Mexico","1970","Hunting",110527
+"NY","New York","1970","Hunting",758512
+"NC","North Carolina","1970","Hunting",406948
+"ND","North Dakota","1970","Hunting",76311
+"OH","Ohio","1970","Hunting",540718
+"OK","Oklahoma","1970","Hunting",232478
+"OR","Oregon","1970","Hunting",630585
+"PA","Pennsylvania","1970","Hunting",1134316
+"RI","Rhode Island","1970","Hunting",19604
+"SC","South Carolina","1970","Hunting",183529
+"SD","South Dakota","1970","Hunting",143273
+"TN","Tennessee","1970","Hunting",423187
+"TX","Texas","1970","Hunting",760351
+"UT","Utah","1970","Hunting",201870
+"VT","Vermont","1970","Hunting",138378
+"VA","Virginia","1970","Hunting",410206
+"WA","Washington","1970","Hunting",336652
+"WV","West Virginia","1970","Hunting",247531
+"WI","Wisconsin","1970","Hunting",629445
+"WY","Wyoming","1970","Hunting",162659
+"AL","Alabama","1969","Hunting",356787
+"AK","Alaska","1969","Hunting",41852
+"AZ","Arizona","1969","Hunting",157530
+"AR","Arkansas","1969","Hunting",265897
+"CA","California","1969","Hunting",757840
+"CO","Colorado","1969","Hunting",283205
+"CT","Connecticut","1969","Hunting",73722
+"DE","Delaware","1969","Hunting",29796
+"FL","Florida","1969","Hunting",229285
+"GA","Georgia","1969","Hunting",318703
+"HI","Hawaii","1969","Hunting",8361
+"ID","Idaho","1969","Hunting",204799
+"IL","Illinois","1969","Hunting",406660
+"IN","Indiana","1969","Hunting",454548
+"IA","Iowa","1969","Hunting",321647
+"KS","Kansas","1969","Hunting",218240
+"KY","Kentucky","1969","Hunting",256340
+"LA","Louisiana","1969","Hunting",322076
+"ME","Maine","1969","Hunting",205560
+"MD","Maryland","1969","Hunting",183110
+"MA","Massachusetts","1969","Hunting",140896
+"MI","Michigan","1969","Hunting",918175
+"MN","Minnesota","1969","Hunting",455660
+"MS","Mississippi","1969","Hunting",270737
+"MO","Missouri","1969","Hunting",450131
+"MT","Montana","1969","Hunting",161051
+"NE","Nebraska","1969","Hunting",184274
+"NV","Nevada","1969","Hunting",63718
+"NH","New Hampshire","1969","Hunting",95767
+"NJ","New Jersey","1969","Hunting",181407
+"NM","New Mexico","1969","Hunting",110632
+"NY","New York","1969","Hunting",725305
+"NC","North Carolina","1969","Hunting",448864
+"ND","North Dakota","1969","Hunting",76478
+"OH","Ohio","1969","Hunting",501537
+"OK","Oklahoma","1969","Hunting",219274
+"OR","Oregon","1969","Hunting",361081
+"PA","Pennsylvania","1969","Hunting",1102749
+"RI","Rhode Island","1969","Hunting",15814
+"SC","South Carolina","1969","Hunting",223123
+"SD","South Dakota","1969","Hunting",162233
+"TN","Tennessee","1969","Hunting",444983
+"TX","Texas","1969","Hunting",729661
+"UT","Utah","1969","Hunting",207629
+"VT","Vermont","1969","Hunting",144570
+"VA","Virginia","1969","Hunting",397139
+"WA","Washington","1969","Hunting",338913
+"WV","West Virginia","1969","Hunting",239935
+"WI","Wisconsin","1969","Hunting",631875
+"WY","Wyoming","1969","Hunting",169911
+"AL","Alabama","1968","Hunting",357766
+"AK","Alaska","1968","Hunting",37930
+"AZ","Arizona","1968","Hunting",149844
+"AR","Arkansas","1968","Hunting",273902
+"CA","California","1968","Hunting",755137
+"CO","Colorado","1968","Hunting",243452
+"CT","Connecticut","1968","Hunting",71915
+"DE","Delaware","1968","Hunting",24783
+"FL","Florida","1968","Hunting",223435
+"GA","Georgia","1968","Hunting",323347
+"HI","Hawaii","1968","Hunting",8212
+"ID","Idaho","1968","Hunting",191684
+"IL","Illinois","1968","Hunting",491725
+"IN","Indiana","1968","Hunting",438475
+"IA","Iowa","1968","Hunting",306823
+"KS","Kansas","1968","Hunting",221724
+"KY","Kentucky","1968","Hunting",253173
+"LA","Louisiana","1968","Hunting",317737
+"ME","Maine","1968","Hunting",203284
+"MD","Maryland","1968","Hunting",191359
+"MA","Massachusetts","1968","Hunting",138015
+"MI","Michigan","1968","Hunting",903545
+"MN","Minnesota","1968","Hunting",473402
+"MS","Mississippi","1968","Hunting",241859
+"MO","Missouri","1968","Hunting",427015
+"MT","Montana","1968","Hunting",153506
+"NE","Nebraska","1968","Hunting",197020
+"NV","Nevada","1968","Hunting",61640
+"NH","New Hampshire","1968","Hunting",93146
+"NJ","New Jersey","1968","Hunting",181871
+"NM","New Mexico","1968","Hunting",107614
+"NY","New York","1968","Hunting",731601
+"NC","North Carolina","1968","Hunting",437039
+"ND","North Dakota","1968","Hunting",83417
+"OH","Ohio","1968","Hunting",490223
+"OK","Oklahoma","1968","Hunting",195304
+"OR","Oregon","1968","Hunting",359011
+"PA","Pennsylvania","1968","Hunting",1062121
+"RI","Rhode Island","1968","Hunting",13434
+"SC","South Carolina","1968","Hunting",210468
+"SD","South Dakota","1968","Hunting",152002
+"TN","Tennessee","1968","Hunting",423410
+"TX","Texas","1968","Hunting",688337
+"UT","Utah","1968","Hunting",203834
+"VT","Vermont","1968","Hunting",161137
+"VA","Virginia","1968","Hunting",375548
+"WA","Washington","1968","Hunting",326748
+"WV","West Virginia","1968","Hunting",227968
+"WI","Wisconsin","1968","Hunting",597119
+"WY","Wyoming","1968","Hunting",144657
+"AL","Alabama","1967","Hunting",355986
+"AK","Alaska","1967","Hunting",42770
+"AZ","Arizona","1967","Hunting",140606
+"AR","Arkansas","1967","Hunting",263571
+"CA","California","1967","Hunting",737637
+"CO","Colorado","1967","Hunting",293056
+"CT","Connecticut","1967","Hunting",66680
+"DE","Delaware","1967","Hunting",25252
+"FL","Florida","1967","Hunting",214720
+"GA","Georgia","1967","Hunting",323551
+"HI","Hawaii","1967","Hunting",7142
+"ID","Idaho","1967","Hunting",182034
+"IL","Illinois","1967","Hunting",478027
+"IN","Indiana","1967","Hunting",438555
+"IA","Iowa","1967","Hunting",302781
+"KS","Kansas","1967","Hunting",209510
+"KY","Kentucky","1967","Hunting",261982
+"LA","Louisiana","1967","Hunting",299581
+"ME","Maine","1967","Hunting",200277
+"MD","Maryland","1967","Hunting",186188
+"MA","Massachusetts","1967","Hunting",117389
+"MI","Michigan","1967","Hunting",912275
+"MN","Minnesota","1967","Hunting",464816
+"MS","Mississippi","1967","Hunting",231864
+"MO","Missouri","1967","Hunting",424713
+"MT","Montana","1967","Hunting",157693
+"NE","Nebraska","1967","Hunting",205384
+"NV","Nevada","1967","Hunting",58182
+"NH","New Hampshire","1967","Hunting",85495
+"NJ","New Jersey","1967","Hunting",168643
+"NM","New Mexico","1967","Hunting",101031
+"NY","New York","1967","Hunting",739968
+"NC","North Carolina","1967","Hunting",433331
+"ND","North Dakota","1967","Hunting",78499
+"OH","Ohio","1967","Hunting",573328
+"OK","Oklahoma","1967","Hunting",214322
+"OR","Oregon","1967","Hunting",348706
+"PA","Pennsylvania","1967","Hunting",995190
+"RI","Rhode Island","1967","Hunting",14471
+"SC","South Carolina","1967","Hunting",210710
+"SD","South Dakota","1967","Hunting",118218
+"TN","Tennessee","1967","Hunting",393269
+"TX","Texas","1967","Hunting",642328
+"UT","Utah","1967","Hunting",192951
+"VT","Vermont","1967","Hunting",135774
+"VA","Virginia","1967","Hunting",369600
+"WA","Washington","1967","Hunting",315886
+"WV","West Virginia","1967","Hunting",238889
+"WI","Wisconsin","1967","Hunting",571058
+"WY","Wyoming","1967","Hunting",135119
+"AL","Alabama","1966","Hunting",349037
+"AK","Alaska","1966","Hunting",42755
+"AZ","Arizona","1966","Hunting",133202
+"AR","Arkansas","1966","Hunting",258534
+"CA","California","1966","Hunting",700804
+"CO","Colorado","1966","Hunting",279783
+"CT","Connecticut","1966","Hunting",63250
+"DE","Delaware","1966","Hunting",25978
+"FL","Florida","1966","Hunting",209137
+"GA","Georgia","1966","Hunting",327457
+"HI","Hawaii","1966","Hunting",6903
+"ID","Idaho","1966","Hunting",183270
+"IL","Illinois","1966","Hunting",459105
+"IN","Indiana","1966","Hunting",500252
+"IA","Iowa","1966","Hunting",282503
+"KS","Kansas","1966","Hunting",193427
+"KY","Kentucky","1966","Hunting",249262
+"LA","Louisiana","1966","Hunting",280745
+"ME","Maine","1966","Hunting",188357
+"MD","Maryland","1966","Hunting",178005
+"MA","Massachusetts","1966","Hunting",135084
+"MI","Michigan","1966","Hunting",926990
+"MN","Minnesota","1966","Hunting",393666
+"MS","Mississippi","1966","Hunting",279349
+"MO","Missouri","1966","Hunting",356087
+"MT","Montana","1966","Hunting",155334
+"NE","Nebraska","1966","Hunting",199182
+"NV","Nevada","1966","Hunting",64390
+"NH","New Hampshire","1966","Hunting",88354
+"NJ","New Jersey","1966","Hunting",165268
+"NM","New Mexico","1966","Hunting",95941
+"NY","New York","1966","Hunting",703570
+"NC","North Carolina","1966","Hunting",417363
+"ND","North Dakota","1966","Hunting",76530
+"OH","Ohio","1966","Hunting",597874
+"OK","Oklahoma","1966","Hunting",235748
+"OR","Oregon","1966","Hunting",341367
+"PA","Pennsylvania","1966","Hunting",955234
+"RI","Rhode Island","1966","Hunting",14150
+"SC","South Carolina","1966","Hunting",200343
+"SD","South Dakota","1966","Hunting",139800
+"TN","Tennessee","1966","Hunting",366632
+"TX","Texas","1966","Hunting",745588
+"UT","Utah","1966","Hunting",196840
+"VT","Vermont","1966","Hunting",134589
+"VA","Virginia","1966","Hunting",365079
+"WA","Washington","1966","Hunting",314382
+"WV","West Virginia","1966","Hunting",232657
+"WI","Wisconsin","1966","Hunting",575932
+"WY","Wyoming","1966","Hunting",121701
+"AL","Alabama","1965","Hunting",340608
+"AK","Alaska","1965","Hunting",44342
+"AZ","Arizona","1965","Hunting",127545
+"AR","Arkansas","1965","Hunting",273585
+"CA","California","1965","Hunting",685157
+"CO","Colorado","1965","Hunting",280738
+"CT","Connecticut","1965","Hunting",62127
+"DE","Delaware","1965","Hunting",26523
+"FL","Florida","1965","Hunting",206876
+"GA","Georgia","1965","Hunting",295606
+"HI","Hawaii","1965","Hunting",7613
+"ID","Idaho","1965","Hunting",177854
+"IL","Illinois","1965","Hunting",481770
+"IN","Indiana","1965","Hunting",586240
+"IA","Iowa","1965","Hunting",310639
+"KS","Kansas","1965","Hunting",190756
+"KY","Kentucky","1965","Hunting",236631
+"LA","Louisiana","1965","Hunting",282227
+"ME","Maine","1965","Hunting",188245
+"MD","Maryland","1965","Hunting",169414
+"MA","Massachusetts","1965","Hunting",117744
+"MI","Michigan","1965","Hunting",893809
+"MN","Minnesota","1965","Hunting",425413
+"MS","Mississippi","1965","Hunting",259357
+"MO","Missouri","1965","Hunting",390408
+"MT","Montana","1965","Hunting",176520
+"NE","Nebraska","1965","Hunting",197765
+"NV","Nevada","1965","Hunting",51797
+"NH","New Hampshire","1965","Hunting",85031
+"NJ","New Jersey","1965","Hunting",167346
+"NM","New Mexico","1965","Hunting",82351
+"NY","New York","1965","Hunting",726561
+"NC","North Carolina","1965","Hunting",413269
+"ND","North Dakota","1965","Hunting",86671
+"OH","Ohio","1965","Hunting",576961
+"OK","Oklahoma","1965","Hunting",216620
+"OR","Oregon","1965","Hunting",332730
+"PA","Pennsylvania","1965","Hunting",917824
+"RI","Rhode Island","1965","Hunting",14549
+"SC","South Carolina","1965","Hunting",192072
+"SD","South Dakota","1965","Hunting",163477
+"TN","Tennessee","1965","Hunting",441813
+"TX","Texas","1965","Hunting",576695
+"UT","Utah","1965","Hunting",198100
+"VT","Vermont","1965","Hunting",124295
+"VA","Virginia","1965","Hunting",366591
+"WA","Washington","1965","Hunting",322333
+"WV","West Virginia","1965","Hunting",218536
+"WI","Wisconsin","1965","Hunting",499050
+"WY","Wyoming","1965","Hunting",120365
+"AL","Alabama","1964","Hunting",316262
+"AK","Alaska","1964","Hunting",44405
+"AZ","Arizona","1964","Hunting",124824
+"AR","Arkansas","1964","Hunting",259800
+"CA","California","1964","Hunting",655198
+"CO","Colorado","1964","Hunting",278535
+"CT","Connecticut","1964","Hunting",58108
+"DE","Delaware","1964","Hunting",25264
+"FL","Florida","1964","Hunting",197406
+"GA","Georgia","1964","Hunting",270265
+"HI","Hawaii","1964","Hunting",7766
+"ID","Idaho","1964","Hunting",162082
+"IL","Illinois","1964","Hunting",490043
+"IN","Indiana","1964","Hunting",608587
+"IA","Iowa","1964","Hunting",315199
+"KS","Kansas","1964","Hunting",195309
+"KY","Kentucky","1964","Hunting",230161
+"LA","Louisiana","1964","Hunting",269725
+"ME","Maine","1964","Hunting",181865
+"MD","Maryland","1964","Hunting",164372
+"MA","Massachusetts","1964","Hunting",124353
+"MI","Michigan","1964","Hunting",842863
+"MN","Minnesota","1964","Hunting",460863
+"MS","Mississippi","1964","Hunting",245686
+"MO","Missouri","1964","Hunting",367822
+"MT","Montana","1964","Hunting",215536
+"NE","Nebraska","1964","Hunting",203181
+"NV","Nevada","1964","Hunting",51489
+"NH","New Hampshire","1964","Hunting",81883
+"NJ","New Jersey","1964","Hunting",166638
+"NM","New Mexico","1964","Hunting",120032
+"NY","New York","1964","Hunting",717283
+"NC","North Carolina","1964","Hunting",396899
+"ND","North Dakota","1964","Hunting",85845
+"OH","Ohio","1964","Hunting",617042
+"OK","Oklahoma","1964","Hunting",206971
+"OR","Oregon","1964","Hunting",319053
+"PA","Pennsylvania","1964","Hunting",862603
+"RI","Rhode Island","1964","Hunting",13791
+"SC","South Carolina","1964","Hunting",192237
+"SD","South Dakota","1964","Hunting",229244
+"TN","Tennessee","1964","Hunting",423798
+"TX","Texas","1964","Hunting",537175
+"UT","Utah","1964","Hunting",199946
+"VT","Vermont","1964","Hunting",115826
+"VA","Virginia","1964","Hunting",351048
+"WA","Washington","1964","Hunting",318070
+"WV","West Virginia","1964","Hunting",197966
+"WI","Wisconsin","1964","Hunting",482467
+"WY","Wyoming","1964","Hunting",119873
+"AL","Alabama","1963","Hunting",320740
+"AK","Alaska","1963","Hunting",41675
+"AZ","Arizona","1963","Hunting",129875
+"AR","Arkansas","1963","Hunting",260038
+"CA","California","1963","Hunting",645734
+"CO","Colorado","1963","Hunting",272267
+"CT","Connecticut","1963","Hunting",55803
+"DE","Delaware","1963","Hunting",23677
+"FL","Florida","1963","Hunting",183291
+"GA","Georgia","1963","Hunting",257271
+"HI","Hawaii","1963","Hunting",7095
+"ID","Idaho","1963","Hunting",195353
+"IL","Illinois","1963","Hunting",479856
+"IN","Indiana","1963","Hunting",592940
+"IA","Iowa","1963","Hunting",294332
+"KS","Kansas","1963","Hunting",209722
+"KY","Kentucky","1963","Hunting",232597
+"LA","Louisiana","1963","Hunting",263024
+"ME","Maine","1963","Hunting",177359
+"MD","Maryland","1963","Hunting",156417
+"MA","Massachusetts","1963","Hunting",116537
+"MI","Michigan","1963","Hunting",860487
+"MN","Minnesota","1963","Hunting",427904
+"MS","Mississippi","1963","Hunting",250152
+"MO","Missouri","1963","Hunting",338871
+"MT","Montana","1963","Hunting",209729
+"NE","Nebraska","1963","Hunting",196138
+"NV","Nevada","1963","Hunting",47842
+"NH","New Hampshire","1963","Hunting",90506
+"NJ","New Jersey","1963","Hunting",141211
+"NM","New Mexico","1963","Hunting",104494
+"NY","New York","1963","Hunting",721012
+"NC","North Carolina","1963","Hunting",385987
+"ND","North Dakota","1963","Hunting",76796
+"OH","Ohio","1963","Hunting",640718
+"OK","Oklahoma","1963","Hunting",211288
+"OR","Oregon","1963","Hunting",309620
+"PA","Pennsylvania","1963","Hunting",976844
+"RI","Rhode Island","1963","Hunting",13288
+"SC","South Carolina","1963","Hunting",187076
+"SD","South Dakota","1963","Hunting",208236
+"TN","Tennessee","1963","Hunting",427442
+"TX","Texas","1963","Hunting",514552
+"UT","Utah","1963","Hunting",198140
+"VT","Vermont","1963","Hunting",117647
+"VA","Virginia","1963","Hunting",348419
+"WA","Washington","1963","Hunting",300558
+"WV","West Virginia","1963","Hunting",204589
+"WI","Wisconsin","1963","Hunting",455586
+"WY","Wyoming","1963","Hunting",118640
+"AL","Alabama","1962","Hunting",309391
+"AK","Alaska","1962","Hunting",37618
+"AZ","Arizona","1962","Hunting",123445
+"AR","Arkansas","1962","Hunting",255269
+"CA","California","1962","Hunting",625844
+"CO","Colorado","1962","Hunting",262885
+"CT","Connecticut","1962","Hunting",53878
+"DE","Delaware","1962","Hunting",24054
+"FL","Florida","1962","Hunting",170061
+"GA","Georgia","1962","Hunting",240779
+"HI","Hawaii","1962","Hunting",6924
+"ID","Idaho","1962","Hunting",171060
+"IL","Illinois","1962","Hunting",468586
+"IN","Indiana","1962","Hunting",607686
+"IA","Iowa","1962","Hunting",308148
+"KS","Kansas","1962","Hunting",205881
+"KY","Kentucky","1962","Hunting",228877
+"LA","Louisiana","1962","Hunting",249338
+"ME","Maine","1962","Hunting",175787
+"MD","Maryland","1962","Hunting",158589
+"MA","Massachusetts","1962","Hunting",115975
+"MI","Michigan","1962","Hunting",818128
+"MN","Minnesota","1962","Hunting",473368
+"MS","Mississippi","1962","Hunting",197933
+"MO","Missouri","1962","Hunting",333087
+"MT","Montana","1962","Hunting",202886
+"NE","Nebraska","1962","Hunting",192741
+"NV","Nevada","1962","Hunting",44226
+"NH","New Hampshire","1962","Hunting",80345
+"NJ","New Jersey","1962","Hunting",193695
+"NM","New Mexico","1962","Hunting",111400
+"NY","New York","1962","Hunting",685172
+"NC","North Carolina","1962","Hunting",382518
+"ND","North Dakota","1962","Hunting",80917
+"OH","Ohio","1962","Hunting",625846
+"OK","Oklahoma","1962","Hunting",212076
+"OR","Oregon","1962","Hunting",310965
+"PA","Pennsylvania","1962","Hunting",981527
+"RI","Rhode Island","1962","Hunting",12149
+"SC","South Carolina","1962","Hunting",171979
+"SD","South Dakota","1962","Hunting",209192
+"TN","Tennessee","1962","Hunting",431197
+"TX","Texas","1962","Hunting",503539
+"UT","Utah","1962","Hunting",177857
+"VT","Vermont","1962","Hunting",105926
+"VA","Virginia","1962","Hunting",351371
+"WA","Washington","1962","Hunting",301188
+"WV","West Virginia","1962","Hunting",207943
+"WI","Wisconsin","1962","Hunting",442419
+"WY","Wyoming","1962","Hunting",112698
+"AL","Alabama","1961","Hunting",321009
+"AK","Alaska","1961","Hunting",41454
+"AZ","Arizona","1961","Hunting",117641
+"AR","Arkansas","1961","Hunting",234381
+"CA","California","1961","Hunting",631734
+"CO","Colorado","1961","Hunting",254229
+"CT","Connecticut","1961","Hunting",54974
+"DE","Delaware","1961","Hunting",26083
+"FL","Florida","1961","Hunting",163567
+"GA","Georgia","1961","Hunting",238426
+"HI","Hawaii","1961","Hunting",6214
+"ID","Idaho","1961","Hunting",172151
+"IL","Illinois","1961","Hunting",476613
+"IN","Indiana","1961","Hunting",573696
+"IA","Iowa","1961","Hunting",319668
+"KS","Kansas","1961","Hunting",223521
+"KY","Kentucky","1961","Hunting",254561
+"LA","Louisiana","1961","Hunting",260598
+"ME","Maine","1961","Hunting",184806
+"MD","Maryland","1961","Hunting",157750
+"MA","Massachusetts","1961","Hunting",116809
+"MI","Michigan","1961","Hunting",862451
+"MN","Minnesota","1961","Hunting",457825
+"MS","Mississippi","1961","Hunting",207904
+"MO","Missouri","1961","Hunting",311233
+"MT","Montana","1961","Hunting",201769
+"NE","Nebraska","1961","Hunting",195630
+"NV","Nevada","1961","Hunting",42337
+"NH","New Hampshire","1961","Hunting",83193
+"NJ","New Jersey","1961","Hunting",174090
+"NM","New Mexico","1961","Hunting",114214
+"NY","New York","1961","Hunting",691403
+"NC","North Carolina","1961","Hunting",394328
+"ND","North Dakota","1961","Hunting",83032
+"OH","Ohio","1961","Hunting",682749
+"OK","Oklahoma","1961","Hunting",194144
+"OR","Oregon","1961","Hunting",306858
+"PA","Pennsylvania","1961","Hunting",996867
+"RI","Rhode Island","1961","Hunting",12945
+"SC","South Carolina","1961","Hunting",171949
+"SD","South Dakota","1961","Hunting",172444
+"TN","Tennessee","1961","Hunting",432553
+"TX","Texas","1961","Hunting",494205
+"UT","Utah","1961","Hunting",186923
+"VT","Vermont","1961","Hunting",110687
+"VA","Virginia","1961","Hunting",349897
+"WA","Washington","1961","Hunting",288305
+"WV","West Virginia","1961","Hunting",210860
+"WI","Wisconsin","1961","Hunting",523514
+"WY","Wyoming","1961","Hunting",112715
+"AL","Alabama","1960","Hunting",311454
+"AK","Alaska","1960","Hunting",31474
+"AZ","Arizona","1960","Hunting",105640
+"AR","Arkansas","1960","Hunting",223641
+"CA","California","1960","Hunting",610882
+"CO","Colorado","1960","Hunting",241301
+"CT","Connecticut","1960","Hunting",53721
+"DE","Delaware","1960","Hunting",25692
+"FL","Florida","1960","Hunting",160327
+"GA","Georgia","1960","Hunting",230804
+"HI","Hawaii","1960","Hunting",5290
+"ID","Idaho","1960","Hunting",167354
+"IL","Illinois","1960","Hunting",496696
+"IN","Indiana","1960","Hunting",620649
+"IA","Iowa","1960","Hunting",385465
+"KS","Kansas","1960","Hunting",230225
+"KY","Kentucky","1960","Hunting",265251
+"LA","Louisiana","1960","Hunting",280648
+"ME","Maine","1960","Hunting",180198
+"MD","Maryland","1960","Hunting",155917
+"MA","Massachusetts","1960","Hunting",122371
+"MI","Michigan","1960","Hunting",909951
+"MN","Minnesota","1960","Hunting",429875
+"MS","Mississippi","1960","Hunting",197821
+"MO","Missouri","1960","Hunting",373198
+"MT","Montana","1960","Hunting",207406
+"NE","Nebraska","1960","Hunting",186200
+"NV","Nevada","1960","Hunting",39953
+"NH","New Hampshire","1960","Hunting",93300
+"NJ","New Jersey","1960","Hunting",169692
+"NM","New Mexico","1960","Hunting",107025
+"NY","New York","1960","Hunting",633892
+"NC","North Carolina","1960","Hunting",384182
+"ND","North Dakota","1960","Hunting",73768
+"OH","Ohio","1960","Hunting",671409
+"OK","Oklahoma","1960","Hunting",210494
+"OR","Oregon","1960","Hunting",293622
+"PA","Pennsylvania","1960","Hunting",990226
+"RI","Rhode Island","1960","Hunting",12198
+"SC","South Carolina","1960","Hunting",164068
+"SD","South Dakota","1960","Hunting",178536
+"TN","Tennessee","1960","Hunting",424437
+"TX","Texas","1960","Hunting",474451
+"UT","Utah","1960","Hunting",184344
+"VT","Vermont","1960","Hunting",103602
+"VA","Virginia","1960","Hunting",405638
+"WA","Washington","1960","Hunting",280731
+"WV","West Virginia","1960","Hunting",221071
+"WI","Wisconsin","1960","Hunting",535698
+"WY","Wyoming","1960","Hunting",101474
+"AL","Alabama","1959","Hunting",306087
+"AK","Alaska","1959","Hunting",29899
+"AZ","Arizona","1959","Hunting",105030
+"AR","Arkansas","1959","Hunting",224803
+"CA","California","1959","Hunting",608111
+"CO","Colorado","1959","Hunting",238262
+"CT","Connecticut","1959","Hunting",54593
+"DE","Delaware","1959","Hunting",24068
+"FL","Florida","1959","Hunting",161162
+"GA","Georgia","1959","Hunting",227873
+"HI","Hawaii","1959","Hunting",5222
+"ID","Idaho","1959","Hunting",190135
+"IL","Illinois","1959","Hunting",507737
+"IN","Indiana","1959","Hunting",596331
+"IA","Iowa","1959","Hunting",361197
+"KS","Kansas","1959","Hunting",229547
+"KY","Kentucky","1959","Hunting",271916
+"LA","Louisiana","1959","Hunting",275622
+"ME","Maine","1959","Hunting",177229
+"MD","Maryland","1959","Hunting",165507
+"MA","Massachusetts","1959","Hunting",126414
+"MI","Michigan","1959","Hunting",956139
+"MN","Minnesota","1959","Hunting",492851
+"MS","Mississippi","1959","Hunting",202575
+"MO","Missouri","1959","Hunting",353935
+"MT","Montana","1959","Hunting",194153
+"NE","Nebraska","1959","Hunting",172832
+"NV","Nevada","1959","Hunting",37811
+"NH","New Hampshire","1959","Hunting",88136
+"NJ","New Jersey","1959","Hunting",173040
+"NM","New Mexico","1959","Hunting",100563
+"NY","New York","1959","Hunting",700010
+"NC","North Carolina","1959","Hunting",386654
+"ND","North Dakota","1959","Hunting",87873
+"OH","Ohio","1959","Hunting",687344
+"OK","Oklahoma","1959","Hunting",208211
+"OR","Oregon","1959","Hunting",288317
+"PA","Pennsylvania","1959","Hunting",987044
+"RI","Rhode Island","1959","Hunting",11036
+"SC","South Carolina","1959","Hunting",167189
+"SD","South Dakota","1959","Hunting",196328
+"TN","Tennessee","1959","Hunting",418683
+"TX","Texas","1959","Hunting",450669
+"UT","Utah","1959","Hunting",176410
+"VT","Vermont","1959","Hunting",99984
+"VA","Virginia","1959","Hunting",415273
+"WA","Washington","1959","Hunting",286514
+"WV","West Virginia","1959","Hunting",274424
+"WI","Wisconsin","1959","Hunting",553386
+"WY","Wyoming","1959","Hunting",109607
+"AL","Alabama","1958","Hunting",301537
+"AK","Alaska","1958","Hunting",31879
+"AZ","Arizona","1958","Hunting",97312
+"AR","Arkansas","1958","Hunting",225969
+"CA","California","1958","Hunting",642839
+"CO","Colorado","1958","Hunting",219623
+"CT","Connecticut","1958","Hunting",56812
+"DE","Delaware","1958","Hunting",25318
+"FL","Florida","1958","Hunting",152796
+"GA","Georgia","1958","Hunting",220254
+"HI","Hawaii","1958","Hunting",5290
+"ID","Idaho","1958","Hunting",175203
+"IL","Illinois","1958","Hunting",512860
+"IN","Indiana","1958","Hunting",664251
+"IA","Iowa","1958","Hunting",343823
+"KS","Kansas","1958","Hunting",189291
+"KY","Kentucky","1958","Hunting",300731
+"LA","Louisiana","1958","Hunting",284279
+"ME","Maine","1958","Hunting",176848
+"MD","Maryland","1958","Hunting",160977
+"MA","Massachusetts","1958","Hunting",126460
+"MI","Michigan","1958","Hunting",916674
+"MN","Minnesota","1958","Hunting",390439
+"MS","Mississippi","1958","Hunting",206956
+"MO","Missouri","1958","Hunting",358590
+"MT","Montana","1958","Hunting",211736
+"NE","Nebraska","1958","Hunting",163391
+"NV","Nevada","1958","Hunting",35779
+"NH","New Hampshire","1958","Hunting",91270
+"NJ","New Jersey","1958","Hunting",161920
+"NM","New Mexico","1958","Hunting",90066
+"NY","New York","1958","Hunting",998448
+"NC","North Carolina","1958","Hunting",365635
+"ND","North Dakota","1958","Hunting",109569
+"OH","Ohio","1958","Hunting",692539
+"OK","Oklahoma","1958","Hunting",183483
+"OR","Oregon","1958","Hunting",277249
+"PA","Pennsylvania","1958","Hunting",969692
+"RI","Rhode Island","1958","Hunting",12616
+"SC","South Carolina","1958","Hunting",164980
+"SD","South Dakota","1958","Hunting",155671
+"TN","Tennessee","1958","Hunting",411021
+"TX","Texas","1958","Hunting",408682
+"UT","Utah","1958","Hunting",151097
+"VT","Vermont","1958","Hunting",102919
+"VA","Virginia","1958","Hunting",403368
+"WA","Washington","1958","Hunting",278976
+"WV","West Virginia","1958","Hunting",271687
+"WI","Wisconsin","1958","Hunting",505809
+"WY","Wyoming","1958","Hunting",133568
