@@ -1,0 +1,94 @@
+---
+title: "Hunting License Plots"
+author: "Hunter Cole"
+date: "4/16/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = F, warning = F, fig.align='center', fig.width=10, fig.height=6)
+```
+## Pro-tips  
+
+Before you start exploring this data, I have a few tips that might help you out. All of the plots on this page are interactive. One of the most useful features of these interactive plots is the ability to hover over the data with your mouse to reveal a tooltip for each data point. Try hovering over the lines with your mouse and see what I mean. You can also zoom and pan the plots. To zoom, drag you cursor over an area while holding the left mouse button to create a rectangle that the plot will zoom to. After that, you can click on the "Pan" button in the toolbar above the plot, then click and drag to move around the plot. To zoom out to the original extent, double click on the plot. You can switch between pan and zoom mode by clicking the "Pan" and "Zoom" buttons in the toolbar above each plot.  
+  
+Once you scroll down to the plots showing data for all 50 states, being over to hover over the lines to see each data point will certainly be necessary, but there are other features that make these plots more interpretable and dynamic. If you double click on a state's label in the legend on the right hand side of the plot, all data will disappear from the plot except for the state you clicked on. If the state you isolated has low values compared to others, it will be difficult to see the line of interest well. When this happens, click on the "Autoscale" button in the toolbar, and the plot will automatically zoom to fit the data. Now, you'll be able to see the data better. If you click on other states in the legend (single-click, not double click), they will pop up as well, and if you clicked "Autoscale, the plot will continue to automatically scale to the data's range. If you double-click on the legend again, data from all 50 states will reappear on the plot.
+  
+That's it! If you are confused about what is being displayed in a plot, read the figure caption below each plot.  
+    
+```{r DataPrep}
+library(ggplot2)
+library(data.table)
+library(lubridate)
+library(plotly)
+
+HuntingLicenses <- fread("./HuntingLicensesFull.csv")
+StatePops <- fread("./StatePopulations_txt/GatheredStateData.csv")
+
+setnames(HuntingLicenses, old = c("StateAbbr", "StateName", "Year", "Type", "LicenseCount"), new = c("State", "Full State Name", "Year", "License Type", "Licenses Sold"))
+
+HuntingLicenses <- merge(HuntingLicenses, StatePops, by = c("Year", "State"))
+
+HuntingLicenses[,Population := Population_in_Thousands * 1000]
+
+HuntingLicenses[,`Percent Hunters` := `Licenses Sold` / Population * 100]
+
+YearlySum <- aggregate(`Licenses Sold` ~ Year, data = HuntingLicenses, FUN = sum)
+
+UsPopEsts <- fread("./StatePopulations_txt/TotalUsbyYear.csv")
+
+YearlySum <- as.data.table(merge(YearlySum, UsPopEsts, by = "Year"))
+
+YearlySum[,Population := Population_in_Thousands*1000]
+
+YearlySum[,`Percent Hunters` := `Licenses Sold`/Population * 100]
+
+ylab <- c(14, 15, 16)
+```
+  
+  
+```{r TotalUs, fig.cap="Figure 1. Hunting licenses sold in the United States by year."}
+ggplotly(ggplot(data = YearlySum, aes(x = Year, y = `Licenses Sold`)) +
+           geom_line() +
+           scale_y_continuous(labels = paste(ylab, "million"), breaks = 1000000*ylab) +
+           theme_light() +
+           theme(axis.title.x = element_text(face = "bold", size = 14, margin = margin(10,0,0,0)),
+                 axis.title.y = element_text(face = "bold", size = 14, margin = margin(0,10,0,0)))
+)
+```
+\  
+  
+```{r PctUs, fig.cap="Figure 2. Hunting licenses sold in the United States by year as a percent of the total national population. These values were calculated by dividing the yearly sum of hunting licenses sold in all 50 states by the Census Bureau's estimates of the national poulation by year."}
+ggplotly(ggplot(data = YearlySum, aes(x = Year, y = `Percent Hunters`)) +
+           geom_line() +
+           theme_light() +
+           theme(axis.title.x = element_text(face = "bold", size = 14, margin = margin(10,0,0,0)),
+                 axis.title.y = element_text(face = "bold", size = 14, margin = margin(0,10,0,0)))
+)
+```
+\  
+  
+```{r TotalStates, fig.cap="Figure 3. Hunting licenses sold per year by state."}
+ggplotly(ggplot(data = HuntingLicenses, aes(x  = Year, y = `Licenses Sold`, color = State)) +
+           geom_line() +
+           scale_y_continuous(labels = c("0", "500,000", "1,000,000"), breaks = c(0, 500000, 1000000)) +
+           theme_light() +
+           theme(axis.title.x = element_text(face = "bold", size = 14, margin = margin(10,0,0,0)),
+                 axis.title.y = element_text(face = "bold", size = 14, margin = margin(0,10,0,0)))
+)
+```
+\  
+
+```{r PctStates, fig.cap="Figure 4. Hunting licenses sold per year by state by year as a percent of the toal state population. These values were calculated by dividing the yearly sum of hunting licenses sold in each state by the Census Bureau's estimates of state poulation by year."}
+ggplotly(ggplot(data = HuntingLicenses, aes(x = Year, y = `Percent Hunters`, color = State)) + 
+           geom_line() +
+           theme_light() +
+           theme(axis.title.x = element_text(face = "bold", size = 14, margin = margin(10,0,0,0)),
+                 axis.title.y = element_text(face = "bold", size = 14, margin = margin(0,10,0,0)))
+)
+```
+\  
+
+Census data obtained from: https://fred.stlouisfed.org
+  
+License sale data obtained from: https://www.fws.gov/wsfrprograms/Subpages/LicenseInfo/Hunting.htm
